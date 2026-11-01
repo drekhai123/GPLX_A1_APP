@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Thi GPLX A1",
+  "description": "Ứng dụng ôn thi giấy phép lái xe A1 và A với 250 câu hỏi mới nhất, 20 câu điểm liệt, 10 bộ đề thi thử, 185 biển báo và mẹo ghi nhớ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

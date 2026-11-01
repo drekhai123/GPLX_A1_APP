@@ -1,0 +1,3901 @@
+{
+  "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/",
+  "scraped_at": "2026-10-31T03:03:00.571Z",
+  "total": 185,
+  "categories": [
+    "BIỂN BÁO CẤM",
+    "BIỂN BÁO NGUY HIỂM",
+    "BIỂN HIỆU LỆNH",
+    "BIỂN CHỈ DẪN",
+    "BIỂN PHỤ",
+    "VẠCH VÀ TÍN HIỆU",
+    "BIỂN BÁO KHÁC"
+  ],
+  "signs": [
+    {
+      "id": "sign-a1-20-445",
+      "order": 1,
+      "name": "Biển 1: Hết cấm đỗ xe theo giờ trong khu vực - Biển 2: Hết cấm đỗ xe trong khu vực - Biển 3: Hết khu vực đỗ xe…",
+      "description": "Biển 1: Hết cấm đỗ xe theo giờ trong khu vực - Biển 2: Hết cấm đỗ xe trong khu vực - Biển 3: Hết khu vực đỗ xe.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/445.jpg",
+        "alt": "Biển 1: Hết cấm đỗ xe theo giờ trong khu vực - Biển 2: Hết cấm đỗ xe trong khu vực - Biển 3: Hết khu vực đỗ xe…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/20/bien-so-1-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "20"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-140-367",
+      "order": 2,
+      "name": "Biển 1: Nhường đường cho người đi bộ - Biển 2: Cấm người đi bộ - Biển 3: Dành cho người đi bộ…",
+      "description": "Biển 1: Nhường đường cho người đi bộ - Biển 2: Cấm người đi bộ - Biển 3: Dành cho người đi bộ.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/367.jpg",
+        "alt": "Biển 1: Nhường đường cho người đi bộ - Biển 2: Cấm người đi bộ - Biển 3: Dành cho người đi bộ…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/140/gap-bien-nao-nguoi-lai-xe-phai-nhuong-duong-cho-nguoi-di-bo/",
+        "question_group": "a1",
+        "question_id": "140"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-14-329",
+      "order": 3,
+      "name": "Biển 1: Đường cấm không áp dụng với xe ưu tiên - Biển 2: dừng lại áp dụng với tất cả phương tiện kể cả xe ưu tiên - Biể…",
+      "description": "Biển 1: Đường cấm không áp dụng với xe ưu tiên - Biển 2: dừng lại áp dụng với tất cả phương tiện kể cả xe ưu tiên - Biển 3: Cấm đi ngược chiều không áp dụng với xe ưu tiên. Nên đáp án 2…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/329.jpg",
+        "alt": "Biển 1: Đường cấm không áp dụng với xe ưu tiên - Biển 2: dừng lại áp dụng với tất cả phương tiện kể cả xe ưu tiên - Biể…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/14/khi-gap-bien-nao-xe-uu-tien-theo-luat-dinh-van-phai-dung-lai/",
+        "question_group": "a1",
+        "question_id": "14"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-331-331",
+      "order": 4,
+      "name": "Biển báo Cấm xe chở hàng nguy hiểm",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/331.jpg",
+        "alt": "Biển báo Cấm xe chở hàng nguy hiểm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/331/bien-nao-la-bien-cam-xe-cho-hang-nguy-hiem/",
+        "question_group": "b",
+        "question_id": "331"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-213-325",
+      "order": 5,
+      "name": "Biển báo Cấm đi ngược chiều",
+      "description": "Biển 1: biển báo cấm - Biển 2: cấm đi ngược chiều - Biển 3: cấm đỗ xe.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/325.jpg",
+        "alt": "Biển báo Cấm đi ngược chiều"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/213/bien-nao-la-bien-cam-di-nguoc-chieu/",
+        "question_group": "a1",
+        "question_id": "213"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-169-439",
+      "order": 6,
+      "name": "Biển báo Hết mọi lệnh cấm",
+      "description": "Biển 1: hết tốc độ tối đa - Biển 2: hết mọi lệnh cấm - Biển 3: hết tốc độ tối thiểu.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/439.jpg",
+        "alt": "Biển báo Hết mọi lệnh cấm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/169/trong-cac-bien-duoi-day-bien-nao-la-bien-het-moi-lenh-cam/",
+        "question_group": "a1",
+        "question_id": "169"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-119-437",
+      "order": 7,
+      "name": "Biển báo Hết tốc độ tối thiểu",
+      "description": "Biển 1: Hết cấm tốc độ tối đa - Biển 2: Hết mọi lệnh cấm - Biển 3: Hết tốc độ tối thiểu.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/437.jpg",
+        "alt": "Biển báo Hết tốc độ tối thiểu"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/119/trong-cac-bien-duoi-day-bien-nao-la-bien-het-toc-do-toi-thieu/",
+        "question_group": "a1",
+        "question_id": "119"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-94-435",
+      "order": 8,
+      "name": "Biển báo Hết tốc độ tối đa cho phép",
+      "description": "Biển 1: Hết hạn chế tốc độ tối đa cho phép - Biển 2: Hết mọi lệnh cấm - Biển 3: Hết hạn chế tốc độ tối thiểu.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/435.jpg",
+        "alt": "Biển báo Hết tốc độ tối đa cho phép"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/94/trong-cac-bien-duoi-day-bien-nao-la-bien-het-toc-do-toi-da-cho-phep/",
+        "question_group": "a1",
+        "question_id": "94"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-162-304",
+      "order": 9,
+      "name": "Biển báo báo hiệu cấm xe mô tô ba bánh chở hàng đi qua",
+      "description": "Biển 1: Cấm xe mô tô - Biển 2: Cấm xe oto - Biển 3: Cấm xe tải - Cấm mô tô, cấm ô tô: cấm luôn cả 3 bánh.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/304.jpg",
+        "alt": "Biển báo báo hiệu cấm xe mô tô ba bánh chở hàng đi qua"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/162/bien-nao-bao-hieu-cam-xe-mo-to-ba-banh-cho-hang-di-qua/",
+        "question_group": "a1",
+        "question_id": "162"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-212-306",
+      "order": 10,
+      "name": "Biển báo báo hiệu cấm xe mô tô đi vào",
+      "description": "Biển 1: cấm xe mô tô - Biển 2: cấm xe ô tô - Biển 3: cấm xe tải.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/306.jpg",
+        "alt": "Biển báo báo hiệu cấm xe mô tô đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/212/bien-nao-bao-hieu-cam-xe-mo-to-di-vao/",
+        "question_group": "a1",
+        "question_id": "212"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-443-443",
+      "order": 11,
+      "name": "Biển báo cho phép quay đầu xe",
+      "description": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Cả hai biển.”.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/443.jpg",
+        "alt": "Biển báo cho phép quay đầu xe"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/443/bien-nao-cho-phep-quay-dau-xe/",
+        "question_group": "b",
+        "question_id": "443"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-165-368",
+      "order": 12,
+      "name": "Biển báo chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này",
+      "description": "Biển 1: NHƯỜNG đường cho người đi bộ. Biển 2: CẤM người đi bộ. Biển 3: DÀNH cho người đi bộ. Đường dành là biển màu xanh!",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/368.jpg",
+        "alt": "Biển báo chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/165/bien-nao-chi-duong-danh-cho-nguoi-di-bo-cac-loai-xe-khong-duoc-di-vao-khi-gap-bien-nay/",
+        "question_group": "a1",
+        "question_id": "165"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-301-301",
+      "order": 13,
+      "name": "Biển báo cấm các loại xe cơ giới đi vào, trừ xe máy hai bánh, xe gắn máy và các loại xe ưu tiên theo quy định…",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/301.jpg",
+        "alt": "Biển báo cấm các loại xe cơ giới đi vào, trừ xe máy hai bánh, xe gắn máy và các loại xe ưu tiên theo quy định…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/301/bien-nao-cam-cac-loai-xe-co-gioi-di-vao-tru-xe-may-hai-banh-xe-gan-may-va-cac-loai-xe-uu-tien-theo-quy-dinh/",
+        "question_group": "b",
+        "question_id": "301"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-88-317",
+      "order": 14,
+      "name": "Biển báo cấm các phương tiện rẽ phải",
+      "description": "Biển 1: Cấm các phương tiện rẽ phải - Biển 2: Cấm các phương tiện rẽ phải và quay đầu - Biển 3: Cấm xe ô tô rẽ phải và quay đầu - Nên chọn biển 1 và biển 2.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/317.jpg",
+        "alt": "Biển báo cấm các phương tiện rẽ phải"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/88/bien-nao-cam-cac-phuong-tien-re-phai/",
+        "question_group": "a1",
+        "question_id": "88"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-113-318",
+      "order": 15,
+      "name": "Biển báo cấm các phương tiện rẽ trái",
+      "description": "Biển 1: Cấm các phương tiện rẽ trái - Biển 2: Cấm các phương tiện rẽ trái và quay đầu - Biển 3: Cấm xe ô tô rẽ trái và quay đầu.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/318.jpg",
+        "alt": "Biển báo cấm các phương tiện rẽ trái"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/113/bien-nao-cam-cac-phuong-tien-re-trai/",
+        "question_group": "a1",
+        "question_id": "113"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-137-303",
+      "order": 16,
+      "name": "Biển báo cấm máy kéo",
+      "description": "Cấm nhỏ cấm luôn lớn theo thứ tự: xe con – xe khách - xe tải - xe máy kéo - xe kéo kéo rơ móc. Nên cấm tải cấm luôn máy kéo chọn cả 2 và 3.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/303.jpg",
+        "alt": "Biển báo cấm máy kéo"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/137/bien-nao-cam-may-keo/",
+        "question_group": "a1",
+        "question_id": "137"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-343-343",
+      "order": 17,
+      "name": "Biển báo cấm máy kéo",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2 và biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/343.jpg",
+        "alt": "Biển báo cấm máy kéo"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/343/bien-nao-cam-may-keo/",
+        "question_group": "b",
+        "question_id": "343"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-340-340",
+      "order": 18,
+      "name": "Biển báo cấm máy kéo kéo theo rơ moóc",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/340.jpg",
+        "alt": "Biển báo cấm máy kéo kéo theo rơ moóc"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/340/bien-nao-cam-may-keo-keo-theo-ro-mooc/",
+        "question_group": "b",
+        "question_id": "340"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-13-313",
+      "order": 19,
+      "name": "Biển báo cấm quay đầu xe",
+      "description": "Biển 1 là biển cấm xe rẽ trái. Biển 2 là biển cấm xe quay đầu. Biển báo cấm quay đầu không có giá trị cấm rẽ trái.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/313.jpg",
+        "alt": "Biển báo cấm quay đầu xe"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/13/bien-nao-cam-quay-dau-xe/",
+        "question_group": "a1",
+        "question_id": "13"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-39-330",
+      "order": 20,
+      "name": "Biển báo cấm tất cả các loại xe cơ giới và thô sơ đi lại trên đường, trừ xe ưu tiên theo luật định (nếu đường vẫn cho x…",
+      "description": "Biển 1: Đường cấm không áp dụng với xe ưu tiên - Biển 2: Dừng lại áp dụng với tất cả các phương tiện với cả xe ưu tiên. Nên chọn biển 1.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/330.jpg",
+        "alt": "Biển báo cấm tất cả các loại xe cơ giới và thô sơ đi lại trên đường, trừ xe ưu tiên theo luật định (nếu đường vẫn cho x…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/39/bien-nao-cam-tat-ca-cac-loai-xe-co-gioi-va-tho-so-di-lai-tren-duong-tru-xe-uu-tien-theo-luat-dinh-neu-duong-van-cho-xe-chay-duoc/",
+        "question_group": "a1",
+        "question_id": "39"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-38-314",
+      "order": 21,
+      "name": "Biển báo cấm xe rẽ trái",
+      "description": "Biển 1: Cấm rẽ trái không cấm quay đầu - Biển 2: Cấm quay đầu không cấm rẽ trái. Nên chọn biển 1.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/314.jpg",
+        "alt": "Biển báo cấm xe rẽ trái"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/38/bien-nao-cam-xe-re-trai/",
+        "question_group": "a1",
+        "question_id": "38"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-321-321",
+      "order": 22,
+      "name": "Biển báo cấm xe taxi mà không cấm các phương tiện khác",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/321.jpg",
+        "alt": "Biển báo cấm xe taxi mà không cấm các phương tiện khác"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/321/bien-nao-cam-xe-taxi-ma-khong-cam-cac-phuong-tien-khac/",
+        "question_group": "b",
+        "question_id": "321"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-311-311",
+      "order": 23,
+      "name": "Biển báo cấm xe tải vượt",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/311.jpg",
+        "alt": "Biển báo cấm xe tải vượt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/311/bien-nao-cam-xe-tai-vuot/",
+        "question_group": "b",
+        "question_id": "311"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-316-316",
+      "order": 24,
+      "name": "Biển báo cấm xe ô tô rẽ trái",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/316.jpg",
+        "alt": "Biển báo cấm xe ô tô rẽ trái"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/316/bien-nao-cam-xe-o-to-re-trai/",
+        "question_group": "b",
+        "question_id": "316"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-302-302",
+      "order": 25,
+      "name": "Biển báo cấm xe ô tô tải",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1 và biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/302.jpg",
+        "alt": "Biển báo cấm xe ô tô tải"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/302/bien-nao-cam-xe-o-to-tai/",
+        "question_group": "b",
+        "question_id": "302"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-310-310",
+      "order": 26,
+      "name": "Biển báo cấm xe ô tô tải vượt",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2 và biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/310.jpg",
+        "alt": "Biển báo cấm xe ô tô tải vượt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/310/bien-nao-cam-xe-o-to-tai-vuot/",
+        "question_group": "b",
+        "question_id": "310"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-144-438",
+      "order": 27,
+      "name": "Biển báo dưới đây báo hiệu hết cấm vượt",
+      "description": "Biển 1: Hết tốc độ tối đa - Biển 2: Hết mọi lệnh cấm - Biển 3: Hết cấm vượt.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/438.jpg",
+        "alt": "Biển báo dưới đây báo hiệu hết cấm vượt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/144/bien-nao-duoi-day-bao-hieu-het-cam-vuot/",
+        "question_group": "a1",
+        "question_id": "144"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-319-319",
+      "order": 28,
+      "name": "Biển báo dưới đây chỉ cấm xe ô tô quay đầu",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/319.jpg",
+        "alt": "Biển báo dưới đây chỉ cấm xe ô tô quay đầu"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/319/bien-nao-duoi-day-chi-cam-xe-o-to-quay-dau/",
+        "question_group": "b",
+        "question_id": "319"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-238-326",
+      "order": 29,
+      "name": "Biển báo dưới đây các phương tiện không được phép đi vào",
+      "description": "Biển 1: biển đường cấm - Biển 2: biển báo cấm đi ngược chiều - Biển 3: cấm đỗ xe. Nên chọn biển 1 và biển 2.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/326.jpg",
+        "alt": "Biển báo dưới đây các phương tiện không được phép đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/238/bien-nao-duoi-day-cac-phuong-tien-khong-duoc-phep-di-vao/",
+        "question_group": "a1",
+        "question_id": "238"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-320-320",
+      "order": 30,
+      "name": "Biển báo dưới đây cấm xe ô tô rẽ trái và quay đầu",
+      "description": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/320.jpg",
+        "alt": "Biển báo dưới đây cấm xe ô tô rẽ trái và quay đầu"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/320/bien-nao-duoi-day-cam-xe-o-to-re-trai-va-quay-dau/",
+        "question_group": "b",
+        "question_id": "320"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-187-305",
+      "order": 31,
+      "name": "Biển báo dưới đây xe gắn máy được phép đi vào",
+      "description": "Biển 1: cấm xe mô tô ( không cấm xe gắn máy) - Biển 2: cấm xe oto ( không cấm xe gắn máy) - Nên chọn cả 2 biển.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/305.jpg",
+        "alt": "Biển báo dưới đây xe gắn máy được phép đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/187/bien-nao-duoi-day-xe-gan-may-duoc-phep-di-vao/",
+        "question_group": "a1",
+        "question_id": "187"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-237-307",
+      "order": 32,
+      "name": "Biển báo dưới đây xe mô tô hai bánh được đi vào",
+      "description": "Biển 1: cấm xe mô tô - Biển 2: cấm xe ô tô ( xe mô tô được phép đi vào) - Biển 3: cấm xe tải ( xe mô tô được phép đi vào). Nên chọn biển 2 và biển 3.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/307.jpg",
+        "alt": "Biển báo dưới đây xe mô tô hai bánh được đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/237/bien-nao-duoi-day-xe-mo-to-hai-banh-duoc-di-vao/",
+        "question_group": "a1",
+        "question_id": "237"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-214-350",
+      "order": 33,
+      "name": "Biển báo xe mô tô hai bánh không được đi vào",
+      "description": "Biển 1: cấm xe ô tô - Biển 2: cấm xe mô tô - Biển 3: cấm xe tải.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/350.jpg",
+        "alt": "Biển báo xe mô tô hai bánh không được đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/214/bien-nao-xe-mo-to-hai-banh-khong-duoc-di-vao/",
+        "question_group": "a1",
+        "question_id": "214"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-189-349",
+      "order": 34,
+      "name": "Biển báo xe mô tô hai bánh được đi vào",
+      "description": "Biển 1: cấm xe oto không cấm moto - Biển 2: cấm xe mô tô - Biển 3: cấm xe tải không cấm mô tô. Nên chọn 1 và 3",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/349.jpg",
+        "alt": "Biển báo xe mô tô hai bánh được đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/189/bien-nao-xe-mo-to-hai-banh-duoc-di-vao/",
+        "question_group": "a1",
+        "question_id": "189"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-163-323",
+      "order": 35,
+      "name": "Biển báo xe quay đầu không bị cấm",
+      "description": "Biển 1: cấm rẽ trái được quay đầu. Biển 2: báo hiệu nơi quay đầu. Nên cả 2 biển.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/323.jpg",
+        "alt": "Biển báo xe quay đầu không bị cấm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/163/bien-nao-xe-quay-dau-khong-bi-cam/",
+        "question_group": "a1",
+        "question_id": "163"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-188-324",
+      "order": 36,
+      "name": "Biển báo xe được phép quay đầu nhưng không được rẽ trái",
+      "description": "Biển 1: Cấm rẽ trái nhưng được quay đầu xe - Biển 2: Bắt buộc rẽ trái. Nên chọn biển 1",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/324.jpg",
+        "alt": "Biển báo xe được phép quay đầu nhưng không được rẽ trái"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/188/bien-nao-xe-duoc-phep-quay-dau-nhung-khong-duoc-re-trai/",
+        "question_group": "a1",
+        "question_id": "188"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-63-322",
+      "order": 37,
+      "name": "Biển báo xe được phép rẽ trái",
+      "description": "Biển 1: cấm rẽ trái được quay đầu - Biển 2: cấm quay đầu được rẽ trái.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/322.jpg",
+        "alt": "Biển báo xe được phép rẽ trái"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/63/bien-nao-xe-duoc-phep-re-trai/",
+        "question_group": "a1",
+        "question_id": "63"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-190-369",
+      "order": 38,
+      "name": "Biển báo Đường dành cho xe thô sơ",
+      "description": "Biển 1: Đường dành cho xe thô sơ - Biển 2: cấm xe đạp - Biển 3: báo hiệu xe đạp cắt ngang. Nên chọn biển 1",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/369.jpg",
+        "alt": "Biển báo Đường dành cho xe thô sơ"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/190/bien-nao-bao-hieu-duong-danh-cho-xe-tho-so/",
+        "question_group": "a1",
+        "question_id": "190"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-462-462",
+      "order": 39,
+      "name": "Chọn đáp án đúng “Có",
+      "description": "Chọn đáp án đúng “Có.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/462.jpg",
+        "alt": "Chọn đáp án đúng “Có"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/462/tai-doan-duong-co-cam-bien-duoi-day-xe-tai-va-xe-khach-co-duoc/",
+        "question_group": "b",
+        "question_id": "462"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-339-339",
+      "order": 40,
+      "name": "Chọn đáp án đúng “Cấm các loại xe có tải trọng toàn bộ trên 10 tấn đi qua",
+      "description": "Chọn đáp án đúng “Cấm các loại xe có tải trọng toàn bộ trên 10 tấn đi qua.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/339.jpg",
+        "alt": "Chọn đáp án đúng “Cấm các loại xe có tải trọng toàn bộ trên 10 tấn đi qua"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/339/bien-so-3-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "339"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-358-358",
+      "order": 41,
+      "name": "Chọn đáp án đúng “Cấm xe ô tô khách",
+      "description": "Chọn đáp án đúng “Cấm xe ô tô khách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/358.jpg",
+        "alt": "Chọn đáp án đúng “Cấm xe ô tô khách"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/358/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "358"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-463-463",
+      "order": 42,
+      "name": "Chọn đáp án đúng “Không",
+      "description": "Chọn đáp án đúng “Không.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/463.jpg",
+        "alt": "Chọn đáp án đúng “Không"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/463/tai-doan-duong-co-cam-bien-duoi-day-xe-tai-va-xe-khach-co-duoc-phep-di-vao-khong/",
+        "question_group": "b",
+        "question_id": "463"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-327-327",
+      "order": 43,
+      "name": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi",
+      "description": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 1 và biển 3.”.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/327.jpg",
+        "alt": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/327/gap-bien-nao-nguoi-lai-xe-khong-duoc-do-xe-vao-ngay-chan/",
+        "question_group": "b",
+        "question_id": "327"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-328-328",
+      "order": 44,
+      "name": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi",
+      "description": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 1 và biển 2.”.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/328.jpg",
+        "alt": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/328/gap-bien-nao-nguoi-lai-xe-khong-duoc-do-xe-vao-ngay-le/",
+        "question_group": "b",
+        "question_id": "328"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-355-355",
+      "order": 45,
+      "name": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi",
+      "description": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Không được phép.”.…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/355.jpg",
+        "alt": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/355/theo-huong-ben-phai-co-duoc-phep-do-xe-dung-xe-khong/",
+        "question_group": "b",
+        "question_id": "355"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-453-453",
+      "order": 46,
+      "name": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi",
+      "description": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Đỗ từ 1/2 thân xe trở lên…",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/453.jpg",
+        "alt": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/453/gap-bien-bao-nay-nguoi-lai-xe-phai-do-xe-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "453"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-89-345",
+      "order": 47,
+      "name": "Cấm 2 bánh và 4 bánh cấm luôn cả 3 bánh",
+      "description": "Cấm 2 bánh và 4 bánh cấm luôn cả 3 bánh.",
+      "category": {
+        "code": "prohibition",
+        "name": "BIỂN BÁO CẤM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/345.jpg",
+        "alt": "Cấm 2 bánh và 4 bánh cấm luôn cả 3 bánh"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/89/bien-nay-co-hieu-luc-doi-voi-xe-mo-to-hai-banh-ba-banh-cho-hang-khong/",
+        "question_group": "a1",
+        "question_id": "89"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-43-411",
+      "order": 48,
+      "name": "Biển 1: Nhường đường dành cho người đi bộ - Biển 2: Báo hiệu thường có trẻ em ngang, trường học…",
+      "description": "Biển 1: Nhường đường dành cho người đi bộ - Biển 2: Báo hiệu thường có trẻ em ngang, trường học.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/411.jpg",
+        "alt": "Biển 1: Nhường đường dành cho người đi bộ - Biển 2: Báo hiệu thường có trẻ em ngang, trường học…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/43/gap-bien-nao-nguoi-tham-gia-giao-thong-phai-di-cham-va-than-trong-de-phong-kha-nang-xuat-hien-va-di-chuyen-bat-ngo-cua-tre-em-tren-mat-duong/",
+        "question_group": "a1",
+        "question_id": "43"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-143-419",
+      "order": 49,
+      "name": "Biển báo hiệu đường ổ gà, lồi lõm ( 1 là gồ, 2 là ổ gà)",
+      "description": "Biển báo hiệu đường ổ gà, lồi lõm ( 1 là gồ, 2 là ổ gà).",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/419.jpg",
+        "alt": "Biển báo hiệu đường ổ gà, lồi lõm ( 1 là gồ, 2 là ổ gà)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/143/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "143"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-141-377",
+      "order": 50,
+      "name": "Biển báo nơi giao nhau vuông góc đường bộ không rào chắn",
+      "description": "Biển báo nơi giao nhau vuông góc đường bộ không rào chắn.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/377.jpg",
+        "alt": "Biển báo nơi giao nhau vuông góc đường bộ không rào chắn"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/141/hai-bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "141"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-217-398",
+      "order": 51,
+      "name": "Biển báo Chú ý chướng ngại vật",
+      "description": "Biển 1: báo hiệu kết thúc đường đôi - Biển 2, biển 3: chú ý chướng ngoại vật.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/398.jpg",
+        "alt": "Biển báo Chú ý chướng ngại vật"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/217/bien-nao-bao-hieu-chu-y-chuong-ngai-vat/",
+        "question_group": "a1",
+        "question_id": "217"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-416-416",
+      "order": 52,
+      "name": "Biển báo Dốc lên nguy hiểm",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/416.jpg",
+        "alt": "Biển báo Dốc lên nguy hiểm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/416/bien-nao-sau-day-la-bien-doc-len-nguy-hiem/",
+        "question_group": "b",
+        "question_id": "416"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-118-415",
+      "order": 53,
+      "name": "Biển báo Dốc xuống nguy hiểm",
+      "description": "9 Lên 10 Xuống.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/415.jpg",
+        "alt": "Biển báo Dốc xuống nguy hiểm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/118/bien-nao-sau-day-la-bien-doc-xuong-nguy-hiem/",
+        "question_group": "a1",
+        "question_id": "118"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-16-372",
+      "order": 54,
+      "name": "Biển báo Giao nhau có tín hiệu đèn",
+      "description": "Biển 1: Giao nhau với đường sắt có rào chắn - Biển 2: Giao nhau với đường ưu tiên - Biển 3: Giao nhau với tin hiệu đèn ( chú ý đèn giao thông trong biển). Hỏi đèn thì kiếm đèn mà chọn.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/372.jpg",
+        "alt": "Biển báo Giao nhau có tín hiệu đèn"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/16/bien-nao-bao-hieu-giao-nhau-co-tin-hieu-den/",
+        "question_group": "a1",
+        "question_id": "16"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-167-395",
+      "order": 55,
+      "name": "Biển báo Giao nhau với đường hai chiều",
+      "description": "Biển 1: giao nhau đường 2 chiều. Biển 2: báo hiệu đường đôi. Biển 3: tuyến đường cùng cấp.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/395.jpg",
+        "alt": "Biển báo Giao nhau với đường hai chiều"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/167/bien-nao-bao-hieu-giao-nhau-voi-duong-hai-chieu/",
+        "question_group": "a1",
+        "question_id": "167"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-192-397",
+      "order": 56,
+      "name": "Biển báo Giao nhau với đường hai chiều",
+      "description": "Biển 1: đường 2 chiều - Biển 2: giao nhau đường 2 chiều - Biển 3: đường cùng cấp.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/397.jpg",
+        "alt": "Biển báo Giao nhau với đường hai chiều"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/192/bien-nao-bao-hieu-giao-nhau-voi-duong-hai-chieu/",
+        "question_group": "a1",
+        "question_id": "192"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-216-382",
+      "order": 57,
+      "name": "Biển báo Giao nhau với đường không ưu tiên",
+      "description": "Biển 1: giao nhau với đường không ưu tiên - Biển 2: giao nhau với đường ưu tiên (tam giác ngược) - Biển 3: bắt đầu đường ưu tiên. Nên chọn biển 1",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/382.jpg",
+        "alt": "Biển báo Giao nhau với đường không ưu tiên"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/216/bien-nao-bao-hieu-giao-nhau-voi-duong-khong-uu-tien/",
+        "question_group": "a1",
+        "question_id": "216"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-388-388",
+      "order": 58,
+      "name": "Biển báo Giao nhau với đường không ưu tiên",
+      "description": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 2.”.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/388.jpg",
+        "alt": "Biển báo Giao nhau với đường không ưu tiên"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/388/bien-nao-bao-hieu-giao-nhau-voi-duong-khong-uu-tien/",
+        "question_group": "b",
+        "question_id": "388"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-240-371",
+      "order": 59,
+      "name": "Biển báo Giao nhau với đường sắt có rào chắn",
+      "description": "Biển 1: giao nhau đường sắt có rào chắn - Biển 2: giao nhau đường ưu tiên - Biển 3: giao nhau tín hiệu đèn.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/371.jpg",
+        "alt": "Biển báo Giao nhau với đường sắt có rào chắn"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/240/bien-nao-bao-hieu-giao-nhau-voi-duong-sat-co-rao-chan/",
+        "question_group": "a1",
+        "question_id": "240"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-241-386",
+      "order": 60,
+      "name": "Biển báo Giao nhau với đường ưu tiên",
+      "description": "Biển 1: giao nhau tuyến đường cùng cấp - Biển 2: giao nhau đường không ưu tiên - Biển 3: giao nhau đường ưu tiên.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/386.jpg",
+        "alt": "Biển báo Giao nhau với đường ưu tiên"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/241/bien-nao-bao-hieu-giao-nhau-voi-duong-uu-tien/",
+        "question_group": "a1",
+        "question_id": "241"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-383-383",
+      "order": 61,
+      "name": "Biển báo Giao nhau với đường ưu tiên",
+      "description": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 2.”.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/383.jpg",
+        "alt": "Biển báo Giao nhau với đường ưu tiên"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/383/bien-nao-bao-hieu-giao-nhau-voi-duong-uu-tien/",
+        "question_group": "b",
+        "question_id": "383"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-166-380",
+      "order": 62,
+      "name": "Biển báo Hết đoạn đường ưu tiên",
+      "description": "Biển 1: giao nhau đường không ưu tiên. Biển 2: giao nhau với đường ưu tiên. Biển 3: hết đoạn đường ưu tiên.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/380.jpg",
+        "alt": "Biển báo Hết đoạn đường ưu tiên"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/166/bien-nao-bao-hieu-het-doan-duong-uu-tien/",
+        "question_group": "a1",
+        "question_id": "166"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-21-461",
+      "order": 63,
+      "name": "Biển báo Làn đường dành riêng cho từng loại xe",
+      "description": "Biển số R.412 Làn đường dành riêng cho từng loại xe hoặc nhóm xe: Khi đến gần nơi đường bộ giao nhau, xe được phép chuyển làn để đi theo hành trình mong muốn. Việc chuyển làn phải thực hiện theo đúng quy định.…",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/461.jpg",
+        "alt": "Biển báo Làn đường dành riêng cho từng loại xe"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/21/tai-doan-duong-co-bien-lan-duong-danh-rieng-cho-tung-loai-xe-duoi-day-cac-phuong-tien-co-duoc-phep-chuyen-sang-lan-khac-de-di-theo-hanh-trinh-mong-muon-khi-den-gan-noi-duong-bo-giao-nhau-hay-khong/",
+        "question_group": "a1",
+        "question_id": "21"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-407-407",
+      "order": 64,
+      "name": "Biển báo Lề đường nguy hiểm",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/407.jpg",
+        "alt": "Biển báo Lề đường nguy hiểm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/407/bien-nao-sau-day-la-bien-le-duong-nguy-hiem/",
+        "question_group": "b",
+        "question_id": "407"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-378-378",
+      "order": 65,
+      "name": "Biển báo Nơi đường sắt giao vuông góc với đường bộ",
+      "description": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/378.jpg",
+        "alt": "Biển báo Nơi đường sắt giao vuông góc với đường bộ"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/378/bien-nao-bao-hieu-noi-duong-sat-giao-vuong-goc-voi-duong-bo/",
+        "question_group": "b",
+        "question_id": "378"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-41-373",
+      "order": 66,
+      "name": "Biển báo báo hiệu nguy hiểm giao nhau với đường sắt",
+      "description": "Biển 1: Giao nhau đường sắt có rào chắm - Biển 2: Báo hiệu giao nhau đường 2 chiều - Biển 3: Giao nhau đường sắt vuông góc với đường bộ. Nên chọn biển 1 và 3.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/373.jpg",
+        "alt": "Biển báo báo hiệu nguy hiểm giao nhau với đường sắt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/41/bien-nao-bao-hieu-nguy-hiem-giao-nhau-voi-duong-sat/",
+        "question_group": "a1",
+        "question_id": "41"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-91-375",
+      "order": 67,
+      "name": "Biển báo báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt",
+      "description": "Biển 1: Giao nhau đường sắt không rào chắn - Biển 2: Giao nhau với đường ưu tiên - Biển 3: Giao nhau với tàu điện.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/375.jpg",
+        "alt": "Biển báo báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/91/bien-nao-bao-hieu-sap-den-cho-giao-nhau-giua-duong-bo-va-duong-sat/",
+        "question_group": "a1",
+        "question_id": "91"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-215-370",
+      "order": 68,
+      "name": "Biển báo báo hiệu sắp đến chỗ giao nhau nguy hiểm",
+      "description": "Biển 1: giao nhau với đường sắt có rào chắn - Biển 2: giao nhau đường ưu tiên - Biển 3: giao nhau tín hiệu đèn. Biển báo hình tam giác nền vàng viền đỏ là biển báo nguy hiểm nên chọn cả 3 biển.…",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/370.jpg",
+        "alt": "Biển báo báo hiệu sắp đến chỗ giao nhau nguy hiểm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/215/bien-nao-bao-hieu-sap-den-cho-giao-nhau-nguy-hiem/",
+        "question_group": "a1",
+        "question_id": "215"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-66-374",
+      "order": 69,
+      "name": "Biển báo báo hiệu đường bộ giao nhau với đường sắt không có rào chắn",
+      "description": "Biển 1: Giao nhau với đường sát có rào chắn - Biển 2: Giao nhau với đường sắt không rào chắn - Biển 3: Nơi đường sắt giao vuông góc với đường bộ.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/374.jpg",
+        "alt": "Biển báo báo hiệu đường bộ giao nhau với đường sắt không có rào chắn"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/66/bien-nao-bao-hieu-duong-bo-giao-nhau-voi-duong-sat-khong-co-rao-chan/",
+        "question_group": "a1",
+        "question_id": "66"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-191-381",
+      "order": 70,
+      "name": "Biển báo báo hiệu, chỉ dẫn xe đi trên đường này được quyền ưu tiên qua nơi giao nhau",
+      "description": "Biển 1: giao nhau với đường không ưu tiên (bạn được ưu tiên đi trước) - Biển 2: giao nhau với đường ưu tiên (bạn phải nhường) - Biển 3: bắt đầu đường ưu tiên (bạn được ưu tiên đi trước). Nên chọn biển 1 và 3…",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/381.jpg",
+        "alt": "Biển báo báo hiệu, chỉ dẫn xe đi trên đường này được quyền ưu tiên qua nơi giao nhau"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/191/bien-nao-bao-hieu-chi-dan-xe-di-tren-duong-nay-duoc-quyen-uu-tien-qua-noi-giao-nhau/",
+        "question_group": "a1",
+        "question_id": "191"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-68-412",
+      "order": 71,
+      "name": "Biển báo chỉ dẫn nơi bắt đầu đoạn đường dành cho người đi bộ",
+      "description": "Biển 1: Nhường đường dành cho người đi bộ - Biển 2: Bắt đầu đoạn đường dành (màu xanh) cho người đi bộ - Biển 3: Báo hiệu có trẻ em cắt ngang qua.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/412.jpg",
+        "alt": "Biển báo chỉ dẫn nơi bắt đầu đoạn đường dành cho người đi bộ"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/68/bien-nao-chi-dan-noi-bat-dau-doan-duong-danh-cho-nguoi-di-bo/",
+        "question_group": "a1",
+        "question_id": "68"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-93-413",
+      "order": 72,
+      "name": "Biển báo dưới đây báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua",
+      "description": "Biển 1: Nhường đường cho người đi bộ - Biển 2: Có trẻ em đi ngang qua - Biển 3: Đường người đi xe đạp cắt qua.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/413.jpg",
+        "alt": "Biển báo dưới đây báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/93/bien-nao-duoi-day-bao-hieu-gan-den-doan-duong-thuong-co-tre-em-di-ngang-qua/",
+        "question_group": "a1",
+        "question_id": "93"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-409-409",
+      "order": 73,
+      "name": "Biển báo sau đây cảnh báo nguy hiểm đoạn đường thường xảy ra tai nạn",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/409.jpg",
+        "alt": "Biển báo sau đây cảnh báo nguy hiểm đoạn đường thường xảy ra tai nạn"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/409/bien-nao-sau-day-canh-bao-nguy-hiem-doan-duong-thuong-xay-ra-tai-nan/",
+        "question_group": "b",
+        "question_id": "409"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-17-387",
+      "order": 74,
+      "name": "Biển báo Đường giao nhau",
+      "description": "Biển 1: Giao nhau tuyến đường cùng cấp - Biển 2: Giao nhau với đường không ưu tiên - Biển 3: Giao nhau với đường ưu tiên ( biển tam giác ngược)",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/387.jpg",
+        "alt": "Biển báo Đường giao nhau"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/17/bien-nao-bao-hieu-duong-giao-nhau-cua-cac-tuyen-duong-cung-cap/",
+        "question_group": "a1",
+        "question_id": "17"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-117-393",
+      "order": 75,
+      "name": "Biển báo Đường đôi",
+      "description": "Đường 2 chiều (mũi tên lên xuống trước mặt) - Biển 2: Giao nhau (cắt ngang) đường 2 chiều - Biển 3: Đường đôi.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/393.jpg",
+        "alt": "Biển báo Đường đôi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/117/bien-nao-bao-hieu-duong-doi/",
+        "question_group": "a1",
+        "question_id": "117"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-449-449",
+      "order": 76,
+      "name": "Biển báo đặt trên đường chính trước khi đến nơi đường giao nhau để rẽ vào đường cụt",
+      "description": "Chọn đáp án đúng “Biển 1 và 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/449.jpg",
+        "alt": "Biển báo đặt trên đường chính trước khi đến nơi đường giao nhau để rẽ vào đường cụt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/449/bien-nao-dat-tren-duong-chinh-truoc-khi-den-noi-duong-giao-nhau-de-re-vao-duong-cut/",
+        "question_group": "b",
+        "question_id": "449"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-475-475",
+      "order": 77,
+      "name": "Chọn đáp án đúng “Chỉ dẫn hướng rẽ để nhắc người điều khiển phương tiện chuẩn bị đổi hướng đi khi sắp vào đường cong ng…",
+      "description": "Chọn đáp án đúng “Chỉ dẫn hướng rẽ để nhắc người điều khiển phương tiện chuẩn bị đổi hướng đi khi sắp vào đường cong nguy hiểm, có bán kính cong nhỏ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, s…",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/475.jpg",
+        "alt": "Chọn đáp án đúng “Chỉ dẫn hướng rẽ để nhắc người điều khiển phương tiện chuẩn bị đổi hướng đi khi sắp vào đường cong ng…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/475/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "475"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-379-379",
+      "order": 78,
+      "name": "Chọn đáp án đúng “Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không…",
+      "description": "Chọn đáp án đúng “Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không có rào chắn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy t…",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/379.jpg",
+        "alt": "Chọn đáp án đúng “Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/379/cac-bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "379"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-336-336",
+      "order": 79,
+      "name": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi trán…",
+      "description": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Không được phép.”.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/336.jpg",
+        "alt": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi trán…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/336/khi-gap-cac-bien-nay-xe-uu-tien-theo-luat-dinh-co-tai-trong-hay-chieu-cao-toan-bo-vuot-qua-chi-so-ghi-tren-bien-co-duoc-phep-di-qua-hay-khong/",
+        "question_group": "b",
+        "question_id": "336"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-168-422",
+      "order": 80,
+      "name": "Đây là biển cảnh báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm ch…",
+      "description": "Đây là biển cảnh báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/422.jpg",
+        "alt": "Đây là biển cảnh báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm ch…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/168/cac-bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "168"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-470-470",
+      "order": 81,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 1.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/470.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/470/tren-duong-cao-toc-gap-bien-nao-thi-nguoi-lai-xe-di-theo-huong-ben-trai-de-tranh-chuong-ngai-vat/",
+        "question_group": "b",
+        "question_id": "470"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-471-471",
+      "order": 82,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/471.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/471/tren-duong-cao-toc-gap-bien-nao-thi-nguoi-lai-xe-di-theo-huong-ben-phai-de-tranh-chuong-ngai-vat/",
+        "question_group": "b",
+        "question_id": "471"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-472-472",
+      "order": 83,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/472.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/472/tren-duong-cao-toc-gap-bien-nao-thi-nguoi-lai-xe-di-duoc-ca-hai-huong-ben-trai-hoac-ben-phai-de-tranh-chuong-ngai-vat/",
+        "question_group": "b",
+        "question_id": "472"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-473-473",
+      "order": 84,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 1 và biển 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "danger",
+        "name": "BIỂN BÁO NGUY HIỂM"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/473.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/473/tren-duong-cao-toc-gap-bien-nao-nguoi-lai-xe-phai-chu-y-doi-huong-di-khi-sap-vao-duong-cong-nguy-hiem/",
+        "question_group": "b",
+        "question_id": "473"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-244-442",
+      "order": 85,
+      "name": "Biển 1: bắt buộc rẽ trái - Biển 2: bắt buộc rẽ trái, rẽ phải - Biển 3: bắt buộc đi thẳng, rẽ phải…",
+      "description": "Biển 1: bắt buộc rẽ trái - Biển 2: bắt buộc rẽ trái, rẽ phải - Biển 3: bắt buộc đi thẳng, rẽ phải.",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/442.jpg",
+        "alt": "Biển 1: bắt buộc rẽ trái - Biển 2: bắt buộc rẽ trái, rẽ phải - Biển 3: bắt buộc đi thẳng, rẽ phải…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/244/khi-den-cho-giao-nhau-gap-bien-nao-thi-nguoi-lai-xe-khong-duoc-cho-xe-di-thang-phai-re-sang-huong-khac/",
+        "question_group": "a1",
+        "question_id": "244"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-145-455",
+      "order": 86,
+      "name": "Biển báo dạng hình tròn, nền xanh là biển báo hiệu lệnh bắt buộc phải tuân thủ theo…",
+      "description": "Biển báo dạng hình tròn, nền xanh là biển báo hiệu lệnh bắt buộc phải tuân thủ theo!",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/455.jpg",
+        "alt": "Biển báo dạng hình tròn, nền xanh là biển báo hiệu lệnh bắt buộc phải tuân thủ theo…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/145/gap-bien-bao-duoi-day-nguoi-lai-xe-co-bat-buoc-phai-chay-vong-theo-dao-an-toan-theo-huong-mui-ten-khi-muon-chuyen-huong-hay-khong/",
+        "question_group": "a1",
+        "question_id": "145"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-19-432",
+      "order": 87,
+      "name": "Biển báo (đặt trước ngã ba, ngã tư) cho phép xe được rẽ sang hướng khác",
+      "description": "Hướng đi phải theo các xe bắt buộc đi thẳng - Biển 2: Hướng đi phải theo các xe rẽ phải hoặc rẽ trái ( lưu ý biển này đặt “SAU” ngã 3, ngã 4) - Nên đáp án không có biển nào. Mẹo nhớ: đặt trước ngã ba chọn đáp án 3.…",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/432.jpg",
+        "alt": "Biển báo (đặt trước ngã ba, ngã tư) cho phép xe được rẽ sang hướng khác"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/19/bien-nao-dat-truoc-nga-ba-nga-tu-cho-phep-xe-duoc-re-sang-huong-khac/",
+        "question_group": "a1",
+        "question_id": "19"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-65-362",
+      "order": 88,
+      "name": "Biển báo báo hiệu hạn chế tốc độ của phương tiện không vượt quá trị số ghi trên biển",
+      "description": "Biển 1: Biển báo tốc độ tối thiểu - Biển 2: Biển báo tốc độ tối đa.",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/362.jpg",
+        "alt": "Biển báo báo hiệu hạn chế tốc độ của phương tiện không vượt quá trị số ghi trên biển"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/65/bien-nao-bao-hieu-han-che-toc-do-cua-phuong-tien-khong-vuot-qua-tri-so-ghi-tren-bien/",
+        "question_group": "a1",
+        "question_id": "65"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-194-440",
+      "order": 89,
+      "name": "Biển báo cho phép được quay đầu xe đi theo hướng ngược lại khi đặt biển trước ngã ba, ngã tư…",
+      "description": "Biển 1: bắt buộc rẽ trái - Biển 2: bắt buộc rẽ trái và rẽ phải (lưu ý biển đạt sau ngã 3, ngã 4) - Biển 3: bắt buộc đi thẳng hoặc rẽ trái (được phép quay đầu xe). Nên chọn biển 3",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/440.jpg",
+        "alt": "Biển báo cho phép được quay đầu xe đi theo hướng ngược lại khi đặt biển trước ngã ba, ngã tư…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/194/bien-nao-cho-phep-duoc-quay-dau-xe-di-theo-huong-nguoc-lai-khi-dat-bien-truoc-nga-ba-nga-tu/",
+        "question_group": "a1",
+        "question_id": "194"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-219-441",
+      "order": 90,
+      "name": "Biển báo không cho phép rẽ phải",
+      "description": "Biển 1: bắt buộc rẽ trái - Biển 2: rẽ trái, rẽ phải - Biển 3: đi thẳng, rẽ phải. Nên chọn biển 1.",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/441.jpg",
+        "alt": "Biển báo không cho phép rẽ phải"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/219/bien-nao-khong-cho-phep-re-phai/",
+        "question_group": "a1",
+        "question_id": "219"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-115-366",
+      "order": 91,
+      "name": "Đây là biển báo hiệu lệnh đi kèm số chỉ định, thể hiện rằng người lái xe cần duy trì tốc độ từ 60 trở lên -> biển báo t…",
+      "description": "Đây là biển báo hiệu lệnh đi kèm số chỉ định, thể hiện rằng người lái xe cần duy trì tốc độ từ 60 trở lên -> biển báo tốc độ tối thiểu.",
+      "category": {
+        "code": "command",
+        "name": "BIỂN HIỆU LỆNH"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/366.jpg",
+        "alt": "Đây là biển báo hiệu lệnh đi kèm số chỉ định, thể hiện rằng người lái xe cần duy trì tốc độ từ 60 trở lên -> biển báo t…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/115/bien-bao-duoi-day-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "115"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-195-458",
+      "order": 92,
+      "name": "Biển 1: báo hiệu cầu vượt liên thông - Biển 2, biển 3: báo hiệu cầu vượt cắt qua",
+      "description": "Biển 1: báo hiệu cầu vượt liên thông - Biển 2, biển 3: báo hiệu cầu vượt cắt qua",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/458.jpg",
+        "alt": "Biển 1: báo hiệu cầu vượt liên thông - Biển 2, biển 3: báo hiệu cầu vượt cắt qua"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/195/bien-so-1-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "195"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-170-457",
+      "order": 93,
+      "name": "Biển báo Cầu vượt liên thông",
+      "description": "Biển 1 và Biển 3: báo hiệu cầu vượt liên thông - Biển 2: hiệu cầu vượt cắt qua hình tròn. (Cầu vượt liên thông là có chữ trên biển báo)",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/457.jpg",
+        "alt": "Biển báo Cầu vượt liên thông"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/170/bien-nao-bao-hieu-cau-vuot-lien-thong/",
+        "question_group": "a1",
+        "question_id": "170"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-116-376",
+      "order": 94,
+      "name": "Biển báo Cửa chui",
+      "description": "Biển 1: Đường cần vòng - Biển 2: Cửa chui - Biển 3: Đường hầm (có chiều sâu).",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/376.jpg",
+        "alt": "Biển báo Cửa chui"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/116/bien-nao-bao-hieu-cua-chui/",
+        "question_group": "a1",
+        "question_id": "116"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-142-394",
+      "order": 95,
+      "name": "Biển báo Kết thúc đường đôi",
+      "description": "Biển 1: đường 2 chiều - Biển 2: đường đôi - Biển 3: kết thúc đường đôi.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/394.jpg",
+        "alt": "Biển báo Kết thúc đường đôi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/142/bien-nao-bao-hieu-ket-thuc-duong-doi/",
+        "question_group": "a1",
+        "question_id": "142"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-95-452",
+      "order": 96,
+      "name": "Biển báo Nơi đỗ xe dành cho người khuyết tật",
+      "description": "Biển 1: Đường dành cho xe thô sơ - Biển 2: Nơi đỗ xe dành cho người khuyết tật - Biển 3: Dành cho người đi bộ.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/452.jpg",
+        "alt": "Biển báo Nơi đỗ xe dành cho người khuyết tật"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/95/bien-nao-bao-hieu-noi-do-xe-danh-cho-nguoi-khuyet-tat/",
+        "question_group": "a1",
+        "question_id": "95"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-220-459",
+      "order": 97,
+      "name": "Biển báo Tuyến đường cầu vượt cắt qua",
+      "description": "Biển 1, Biển 2: cầu vượt cắt qua - Biển 3: biển báo cầu vồng. (Cầu vượt liên thông là có chữ trên biển báo)",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/459.jpg",
+        "alt": "Biển báo Tuyến đường cầu vượt cắt qua"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/220/bien-nao-bao-hieu-tuyen-duong-cau-vuot-cat-qua/",
+        "question_group": "a1",
+        "question_id": "220"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-399-399",
+      "order": 98,
+      "name": "Biển báo chỉ dẫn cho người tham gia giao thông biết vị trí và khoảng cách có làn đường cứu nạn hay làn thoát xe khẩn cấ…",
+      "description": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Biển 2.”.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/399.jpg",
+        "alt": "Biển báo chỉ dẫn cho người tham gia giao thông biết vị trí và khoảng cách có làn đường cứu nạn hay làn thoát xe khẩn cấ…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/399/bien-nao-chi-dan-cho-nguoi-tham-gia-giao-thong-biet-vi-tri-va-khoang-cach-co-lan-duong-cuu-nan-hay-lan-thoat-xe-khan-cap/",
+        "question_group": "b",
+        "question_id": "399"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-45-450",
+      "order": 99,
+      "name": "Biển báo chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường",
+      "description": "Biển 1: Người đi bộ sử dụng Cầu vượt ( đi lên là cầu vượt) - Biển 2: Người đi bộ sử dụng hầm chui ( đi xuống là hầm chui).",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/450.jpg",
+        "alt": "Biển báo chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/45/bien-nao-chi-dan-cho-nguoi-di-bo-su-dung-cau-vuot-qua-duong/",
+        "question_group": "a1",
+        "question_id": "45"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-70-451",
+      "order": 100,
+      "name": "Biển báo chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường",
+      "description": "Hầm chui đi xuống, cầu vượt đi lên.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/451.jpg",
+        "alt": "Biển báo chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/70/bien-nao-chi-dan-cho-nguoi-di-bo-su-dung-ham-chui-qua-duong/",
+        "question_group": "a1",
+        "question_id": "70"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-46-474",
+      "order": 101,
+      "name": "Biển báo chỉ dẫn người lái xe đi được cả hai hướng",
+      "description": "Biển 1: Chỉ dẫn hưỡng rẽ bên phải - Biển 2: Chỉ dẫn đi cả 2 hướng.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/474.jpg",
+        "alt": "Biển báo chỉ dẫn người lái xe đi được cả hai hướng"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/46/bien-nao-chi-dan-nguoi-lai-xe-di-duoc-ca-hai-huong/",
+        "question_group": "a1",
+        "question_id": "46"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-466-466",
+      "order": 102,
+      "name": "Biển báo chỉ dẫn nhập làn xe",
+      "description": "Chọn đáp án đúng “Cả hai biển.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/466.jpg",
+        "alt": "Biển báo chỉ dẫn nhập làn xe"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/466/bien-nao-chi-dan-nhap-lan-xe/",
+        "question_group": "b",
+        "question_id": "466"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-444-444",
+      "order": 103,
+      "name": "Biển báo chỉ dẫn tên đường trên các tuyến đường đối ngoại",
+      "description": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/444.jpg",
+        "alt": "Biển báo chỉ dẫn tên đường trên các tuyến đường đối ngoại"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/444/bien-nao-chi-dan-ten-duong-tren-cac-tuyen-duong-doi-ngoai/",
+        "question_group": "b",
+        "question_id": "444"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-365-365",
+      "order": 104,
+      "name": "Biển báo dưới đây chỉ dẫn bắt đầu đường cao tốc phân làn đường có tốc độ khác nhau",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/365.jpg",
+        "alt": "Biển báo dưới đây chỉ dẫn bắt đầu đường cao tốc phân làn đường có tốc độ khác nhau"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/365/bien-nao-duoi-day-chi-dan-bat-dau-duong-cao-toc-phan-lan-duong-co-toc-do-khac-nhau/",
+        "question_group": "b",
+        "question_id": "365"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-456-456",
+      "order": 105,
+      "name": "Biển báo dưới đây chỉ dẫn địa giới hành chính giữa các thành phố, tỉnh, huyện",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/456.jpg",
+        "alt": "Biển báo dưới đây chỉ dẫn địa giới hành chính giữa các thành phố, tỉnh, huyện"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/456/bien-nao-duoi-day-chi-dan-dia-gioi-hanh-chinh-giua-cac-thanh-pho-tinh-huyen/",
+        "question_group": "b",
+        "question_id": "456"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-120-454",
+      "order": 106,
+      "name": "Biển báo này báo trước vị trí trạm Cảnh sát Giao thông đường bộ để người tham gia giao thông nhận biết khu vực có lực l…",
+      "description": "Biển báo này báo trước vị trí trạm Cảnh sát Giao thông đường bộ để người tham gia giao thông nhận biết khu vực có lực lượng CSGT làm nhiệm vụ kiểm tra, kiểm soát giao thông. Phải giảm tốc độ và không được vượt.…",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/454.jpg",
+        "alt": "Biển báo này báo trước vị trí trạm Cảnh sát Giao thông đường bộ để người tham gia giao thông nhận biết khu vực có lực l…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/120/gap-bien-bao-nay-nguoi-tham-gia-giao-thong-phai-xu-ly-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "120"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-242-400",
+      "order": 107,
+      "name": "Biển báo Đường hầm",
+      "description": "Biển 1: cửa chui - Biển 2: đường hầm ( có chiều sâu) - Biển 3: cầu vồng",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/400.jpg",
+        "alt": "Biển báo Đường hầm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/242/bien-nao-bao-hieu-duong-ham/",
+        "question_group": "a1",
+        "question_id": "242"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-69-434",
+      "order": 108,
+      "name": "Biển báo Đường một chiều",
+      "description": "Biển 1: Hướng đi thẳng phải theo (hình tròn nền xanh phải theo) - Biển 2: Đường 1 chiều. (Một = mập, chọn mũi tên mập hơn) hơn là chọn)",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/434.jpg",
+        "alt": "Biển báo Đường một chiều"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/69/bien-nao-bao-hieu-duong-mot-chieu/",
+        "question_group": "a1",
+        "question_id": "69"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-392-392",
+      "order": 109,
+      "name": "Biển báo Đường đôi",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/392.jpg",
+        "alt": "Biển báo Đường đôi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/392/bien-nao-bao-hieu-duong-doi/",
+        "question_group": "b",
+        "question_id": "392"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-92-391",
+      "order": 110,
+      "name": "Biển báo Được ưu tiên qua đường hẹp",
+      "description": "Biển 1: Đường 2 chiều - Biển 2: Giảm tốc độ nhường đường cho xe cơ giới đi ngược chiều - Biển 3: Được ưu tiên qua nơi đường hẹp.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/391.jpg",
+        "alt": "Biển báo Được ưu tiên qua đường hẹp"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/92/bien-nao-chi-dan-duoc-uu-tien-qua-duong-hep/",
+        "question_group": "a1",
+        "question_id": "92"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-469-469",
+      "order": 111,
+      "name": "Chọn đáp án đúng “Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m",
+      "description": "Chọn đáp án đúng “Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.…",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/469.jpg",
+        "alt": "Chọn đáp án đúng “Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/469/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "469"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-465-465",
+      "order": 112,
+      "name": "Chọn đáp án đúng “Chỉ dẫn vị trí nhập làn xe cách 250 m",
+      "description": "Chọn đáp án đúng “Chỉ dẫn vị trí nhập làn xe cách 250 m.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/465.jpg",
+        "alt": "Chọn đáp án đúng “Chỉ dẫn vị trí nhập làn xe cách 250 m"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/465/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "465"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-468-468",
+      "order": 113,
+      "name": "Chọn đáp án đúng “Xăng dầu, ăn uống, thông tin, sửa chữa xe",
+      "description": "Chọn đáp án đúng “Xăng dầu, ăn uống, thông tin, sửa chữa xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/468.jpg",
+        "alt": "Chọn đáp án đúng “Xăng dầu, ăn uống, thông tin, sửa chữa xe"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/468/y-nghia-cac-bieu-tuong-ghi-tren-bien-chi-dan-la-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "468"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-361-361",
+      "order": 114,
+      "name": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng c…",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/361.jpg",
+        "alt": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng c…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/361/bien-bao-nao-bao-hieu-bat-dau-doan-duong-vao-pham-vi-khu-dan-cu-cac-phuong-tien-tham-gia-giao-thong-phai-tuan-theo-cac-quy-dinh-di-duong-duoc-ap-dung-o-khu-dong-dan-cu/",
+        "question_group": "b",
+        "question_id": "361"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-414-414",
+      "order": 115,
+      "name": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng c…",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/414.jpg",
+        "alt": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng c…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/414/gap-bien-nao-duoi-day-nguoi-tham-gia-giao-thong-can-phai-dieu-chinh-toc-do-xe-chay-cho-thich-hop-de-phong-gio-ngang-thoi-manh-gay-lat-xe/",
+        "question_group": "b",
+        "question_id": "414"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-245-460",
+      "order": 116,
+      "name": "Đây là Chỉ dẫn khoảng cách đến làn đường cứu nạn (làn thoát xe khẩn cấp) dựa theo quy chuẩn kỹ thuật quốc gia…",
+      "description": "Đây là Chỉ dẫn khoảng cách đến làn đường cứu nạn (làn thoát xe khẩn cấp) dựa theo quy chuẩn kỹ thuật quốc gia.",
+      "category": {
+        "code": "guide",
+        "name": "BIỂN CHỈ DẪN"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/460.jpg",
+        "alt": "Đây là Chỉ dẫn khoảng cách đến làn đường cứu nạn (làn thoát xe khẩn cấp) dựa theo quy chuẩn kỹ thuật quốc gia…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/245/bien-bao-duoi-day-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "245"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-239-351",
+      "order": 117,
+      "name": "Biển báo cấm các loại xe biển phụ",
+      "description": "Biển báo cấm các loại xe biển phụ.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/351.jpg",
+        "alt": "Biển báo cấm các loại xe biển phụ"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/239/ba-bien-nay-co-hieu-luc-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "239"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-15-354",
+      "order": 118,
+      "name": "Biển chính: cấm dừng và đỗ xe - Biển phụ: hướng mũi tên chỉ bên phải - Cấm dừng và đỗ xe theo hướng bên phải…",
+      "description": "Biển chính: cấm dừng và đỗ xe - Biển phụ: hướng mũi tên chỉ bên phải - Cấm dừng và đỗ xe theo hướng bên phải.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/354.jpg",
+        "alt": "Biển chính: cấm dừng và đỗ xe - Biển phụ: hướng mũi tên chỉ bên phải - Cấm dừng và đỗ xe theo hướng bên phải…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/15/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "15"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-139-347",
+      "order": 119,
+      "name": "Biển phụ báo hiệu chiều dài đoạn đường cấp bóp còi",
+      "description": "Biển phụ báo hiệu chiều dài đoạn đường cấp bóp còi.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/347.jpg",
+        "alt": "Biển phụ báo hiệu chiều dài đoạn đường cấp bóp còi"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/139/bien-phu-dat-duoi-bien-cam-bop-coi-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "139"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-352-352",
+      "order": 120,
+      "name": "Biển báo báo hiệu chiều dài đoạn đường phải giữ cự ly tối thiểu giữa hai xe",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/352.jpg",
+        "alt": "Biển báo báo hiệu chiều dài đoạn đường phải giữ cự ly tối thiểu giữa hai xe"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/352/bien-nao-bao-hieu-chieu-dai-doan-duong-phai-giu-cu-ly-toi-thieu-giua-hai-xe/",
+        "question_group": "b",
+        "question_id": "352"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-164-348",
+      "order": 121,
+      "name": "Gặp đáp án có “KHÔNG ĐƯỢC PHÉP” thì chọn ngay là chắc chắn đúng",
+      "description": "Gặp đáp án có “KHÔNG ĐƯỢC PHÉP” thì chọn ngay là chắc chắn đúng.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/348.jpg",
+        "alt": "Gặp đáp án có “KHÔNG ĐƯỢC PHÉP” thì chọn ngay là chắc chắn đúng"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/164/chieu-dai-doan-duong-500-m-tu-noi-dat-bien-nay-nguoi-lai-xe-co-duoc-phep-bam-coi-khong/",
+        "question_group": "a1",
+        "question_id": "164"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-334-334",
+      "order": 122,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.”.…",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/334.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/334/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "334"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-417-417",
+      "order": 123,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.”.…",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/417.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/417/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "417"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-418-418",
+      "order": 124,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo trước sắp đến bến phà.”.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/418.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/418/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "418"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-420-420",
+      "order": 125,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo hiệu đường có gồ giảm tốc phía trước.”.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/420.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/420/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "420"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-421-421",
+      "order": 126,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.”.…",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/421.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/421/bien-bao-duoi-day-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "421"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-423-423",
+      "order": 127,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn ch…",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/423.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/423/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "423"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-424-424",
+      "order": 128,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Đi chậm, quan sát và dừng lại nếu gặp gia súc trên đường.”.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/424.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/424/gap-bien-bao-nay-nguoi-lai-xe-phai-xu-ly-the-nao/",
+        "question_group": "b",
+        "question_id": "424"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-425-425",
+      "order": 129,
+      "name": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)",
+      "description": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo hiệu khu vực có đường dây điện cắt ngang phía trên tuyến đường.”.…",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/425.jpg",
+        "alt": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ)"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/425/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "425"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-114-346",
+      "order": 130,
+      "name": "Thứ nhất: Đây là loại biển báo cấm kèm chú thích xe ô tô (xe cơ giới) và xe mô tô (có người ngồi trên)…",
+      "description": "Thứ nhất: Đây là loại biển báo cấm kèm chú thích xe ô tô (xe cơ giới) và xe mô tô (có người ngồi trên). Thứ 2, biển phụ chỉ định hai chiều trái phải. Vì thế chọn đáp án 2.",
+      "category": {
+        "code": "auxiliary",
+        "name": "BIỂN PHỤ"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/346.jpg",
+        "alt": "Thứ nhất: Đây là loại biển báo cấm kèm chú thích xe ô tô (xe cơ giới) và xe mô tô (có người ngồi trên)…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/114/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "114"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-484-484",
+      "order": 131,
+      "name": "Chọn đáp án đúng “Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường",
+      "description": "Chọn đáp án đúng “Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.…",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/484.jpg",
+        "alt": "Chọn đáp án đúng “Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/484/vach-duoi-day-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "484"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-483-483",
+      "order": 132,
+      "name": "Chọn đáp án đúng “Dùng để xác định khoảng cách giữa các phương tiện trên đường",
+      "description": "Chọn đáp án đúng “Dùng để xác định khoảng cách giữa các phương tiện trên đường.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.…",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/483.jpg",
+        "alt": "Chọn đáp án đúng “Dùng để xác định khoảng cách giữa các phương tiện trên đường"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/483/vach-duoi-day-co-tac-dung-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "483"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-481-481",
+      "order": 133,
+      "name": "Chọn đáp án đúng “Phân chia các làn xe chạy cùng chiều nhau",
+      "description": "Chọn đáp án đúng “Phân chia các làn xe chạy cùng chiều nhau.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/481.jpg",
+        "alt": "Chọn đáp án đúng “Phân chia các làn xe chạy cùng chiều nhau"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/481/cac-vach-duoi-day-co-tac-dung-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "481"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-480-480",
+      "order": 134,
+      "name": "Chọn đáp án đúng “Phân chia hai chiều xe chạy ngược chiều nhau",
+      "description": "Chọn đáp án đúng “Phân chia hai chiều xe chạy ngược chiều nhau.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/480.jpg",
+        "alt": "Chọn đáp án đúng “Phân chia hai chiều xe chạy ngược chiều nhau"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/480/cac-vach-duoi-day-co-tac-dung-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "480"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-485-485",
+      "order": 135,
+      "name": "Chọn đáp án đúng “Vị trí dừng xe của các phương tiện vận tải hành khách công cộng",
+      "description": "Chọn đáp án đúng “Vị trí dừng xe của các phương tiện vận tải hành khách công cộng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.…",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/485.jpg",
+        "alt": "Chọn đáp án đúng “Vị trí dừng xe của các phương tiện vận tải hành khách công cộng"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/485/vach-duoi-day-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "485"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-121-478",
+      "order": 136,
+      "name": "Hai chiều màu vàng, cùng chiều (một chiều) màu trắng",
+      "description": "Hai chiều màu vàng, cùng chiều (một chiều) màu trắng. Vạch đứt được đè, vạch liền thì không!",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/478.jpg",
+        "alt": "Hai chiều màu vàng, cùng chiều (một chiều) màu trắng"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/121/vach-ke-duong-nao-duoi-day-la-vach-phan-chia-hai-chieu-xe-chay-vach-tim-duong-xe-khong-duoc-lan-lan-khong-duoc-de-len-vach/",
+        "question_group": "a1",
+        "question_id": "121"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-96-476",
+      "order": 137,
+      "name": "Vạch 1: rẽ phải - Vạch 2: đi thẳng và rẽ trái - Vạch 3: đi thẳng và rẽ phải",
+      "description": "Vạch 1: rẽ phải - Vạch 2: đi thẳng và rẽ trái - Vạch 3: đi thẳng và rẽ phải.",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/476.jpg",
+        "alt": "Vạch 1: rẽ phải - Vạch 2: đi thẳng và rẽ trái - Vạch 3: đi thẳng và rẽ phải"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/96/vach-mui-ten-chi-huong-tren-mat-duong-nao-duoi-day-cho-phep-xe-chi-duoc-di-thang-va-re-phai/",
+        "question_group": "a1",
+        "question_id": "96"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-477-477",
+      "order": 138,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 1 và vạch 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/477.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/477/vach-ke-duong-nao-duoi-day-la-vach-phan-chia-cac-lan-xe-cung-chieu/",
+        "question_group": "b",
+        "question_id": "477"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-479-479",
+      "order": 139,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 1 và vạch 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/479.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/479/vach-ke-duong-nao-duoi-day-la-vach-phan-chia-hai-chieu-xe-chay-vach-tim-duong/",
+        "question_group": "b",
+        "question_id": "479"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-482-482",
+      "order": 140,
+      "name": "Đây là câu hỏi khái niệm/định nghĩa",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 1 và vạch 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "marking",
+        "name": "VẠCH VÀ TÍN HIỆU"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/482.jpg",
+        "alt": "Đây là câu hỏi khái niệm/định nghĩa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/482/khi-gap-vach-ke-duong-nao-cac-xe-duoc-phep-de-vach/",
+        "question_group": "b",
+        "question_id": "482"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-218-430",
+      "order": 141,
+      "name": "Biển 1: bắt đầu đoạn đường dành cho ô tôvà mô tô - Biển 2: kết thúc đoạn đường dành cho ô tô và mô tô…",
+      "description": "Biển 1: bắt đầu đoạn đường dành cho ô tôvà mô tô - Biển 2: kết thúc đoạn đường dành cho ô tô và mô tô.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/430.jpg",
+        "alt": "Biển 1: bắt đầu đoạn đường dành cho ô tôvà mô tô - Biển 2: kết thúc đoạn đường dành cho ô tô và mô tô…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/218/khi-gap-bien-nao-thi-cac-phuong-tien-khong-duoc-di-vao-tru-xe-o-to-va-xe-mo-to/",
+        "question_group": "a1",
+        "question_id": "218"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-64-335",
+      "order": 142,
+      "name": "Biển báo có viền đỏ tương ứng với loại biển báo cấm, kèm theo ghi chú thêm 70 (có nghĩa là 70km/h), có ý nghĩa là không…",
+      "description": "Biển báo có viền đỏ tương ứng với loại biển báo cấm, kèm theo ghi chú thêm 70 (có nghĩa là 70km/h), có ý nghĩa là không được vượt quá con số đó –> tối đa chỉ tới 70km/h.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/335.jpg",
+        "alt": "Biển báo có viền đỏ tương ứng với loại biển báo cấm, kèm theo ghi chú thêm 70 (có nghĩa là 70km/h), có ý nghĩa là không…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/64/bien-bao-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "64"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-18-401",
+      "order": 143,
+      "name": "Biển báo Cầu hẹp",
+      "description": "Biển 1: Cầu tạm - Biển 2: Cầu hẹp - Biển 3: Cầu quay – cầu cất.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/401.jpg",
+        "alt": "Biển báo Cầu hẹp"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/18/bien-nao-duoi-day-la-bien-cau-hep/",
+        "question_group": "a1",
+        "question_id": "18"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-402-402",
+      "order": 144,
+      "name": "Biển báo Cầu quay - cầu cất",
+      "description": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/402.jpg",
+        "alt": "Biển báo Cầu quay - cầu cất"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/402/bien-nao-duoi-day-la-bien-cau-quay-cau-cat/",
+        "question_group": "b",
+        "question_id": "402"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-44-433",
+      "order": 145,
+      "name": "Biển báo Hướng đi thẳng phải theo",
+      "description": "Biển 1: Biển báo hiệu lệnh hướng đi thẳng phải theo - Biển 2: Đường 1 chiều.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/433.jpg",
+        "alt": "Biển báo Hướng đi thẳng phải theo"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/44/bien-nao-bao-hieu-huong-di-thang-phai-theo/",
+        "question_group": "a1",
+        "question_id": "44"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-429-429",
+      "order": 146,
+      "name": "Biển báo Hết đoạn đường dành cho xe ô tô",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/429.jpg",
+        "alt": "Biển báo Hết đoạn đường dành cho xe ô tô"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/429/bien-nao-bao-hieu-het-doan-duong-danh-cho-xe-o-to/",
+        "question_group": "b",
+        "question_id": "429"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-405-405",
+      "order": 147,
+      "name": "Biển báo Kè, vực sâu bên đường phía bên phải",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/405.jpg",
+        "alt": "Biển báo Kè, vực sâu bên đường phía bên phải"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/405/bien-nao-sau-day-la-bien-ke-vuc-sau-ben-duong-phia-ben-phai/",
+        "question_group": "b",
+        "question_id": "405"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-404-404",
+      "order": 148,
+      "name": "Biển báo Kè, vực sâu bên đường phía bên trái",
+      "description": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/404.jpg",
+        "alt": "Biển báo Kè, vực sâu bên đường phía bên trái"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/404/bien-nao-sau-day-la-bien-ke-vuc-sau-ben-duong-phia-ben-trai/",
+        "question_group": "b",
+        "question_id": "404"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-403-403",
+      "order": 149,
+      "name": "Biển báo Kè, vực sâu phía trước",
+      "description": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/403.jpg",
+        "alt": "Biển báo Kè, vực sâu phía trước"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/403/bien-nao-duoi-day-la-bien-ke-vuc-sau-phia-truoc/",
+        "question_group": "b",
+        "question_id": "403"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-363-363",
+      "order": 150,
+      "name": "Biển báo Kết thúc đường cao tốc",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/363.jpg",
+        "alt": "Biển báo Kết thúc đường cao tốc"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/363/trong-cac-bien-bao-duoi-day-bien-nao-bao-hieu-ket-thuc-duong-cao-toc/",
+        "question_group": "b",
+        "question_id": "363"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-448-448",
+      "order": 151,
+      "name": "Biển báo Rẽ ra đường có làn đường dành cho ô tô khách",
+      "description": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Biển 3.”.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/448.jpg",
+        "alt": "Biển báo Rẽ ra đường có làn đường dành cho ô tô khách"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/448/bien-nao-bao-hieu-re-ra-duong-co-lan-duong-danh-cho-o-to-khach/",
+        "question_group": "b",
+        "question_id": "448"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-436-436",
+      "order": 152,
+      "name": "Biển báo Tốc độ tối đa cho phép",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1 và biển 2.”.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/436.jpg",
+        "alt": "Biển báo Tốc độ tối đa cho phép"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/436/hieu-luc-cua-bien-toc-do-toi-da-cho-phep-het-tac-dung-khi-gap-bien-nao-duoi-day/",
+        "question_group": "b",
+        "question_id": "436"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-40-360",
+      "order": 153,
+      "name": "Biển báo Tốc độ tối đa cho phép về ban đêm",
+      "description": "Biển 1: Tốc độ tối đa cho phép về ban đêm cho các phương tiện là 70km/h/ Biển 2: Tốc độ tối đa 50km/h.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/360.jpg",
+        "alt": "Biển báo Tốc độ tối đa cho phép về ban đêm"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/40/bien-nao-la-bien-toc-do-toi-da-cho-phep-ve-ban-dem/",
+        "question_group": "a1",
+        "question_id": "40"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-193-427",
+      "order": 154,
+      "name": "Biển báo báo hiệu các phương tiện phải tuân thủ tốc độ tối đa cho phép trên từng làn đường…",
+      "description": "Biển 1: Biển ghép tốc độ tối đa cho phép trên từng làn đường - Biển 2: Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường. Nên chọn cả 2 biển quy định tốc độ tối đa trên từng làn đường.…",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/427.jpg",
+        "alt": "Biển báo báo hiệu các phương tiện phải tuân thủ tốc độ tối đa cho phép trên từng làn đường…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/193/bien-nao-bao-hieu-cac-phuong-tien-phai-tuan-thu-toc-do-toi-da-cho-phep-tren-tung-lan-duong/",
+        "question_group": "a1",
+        "question_id": "193"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-426-426",
+      "order": 155,
+      "name": "Biển báo báo hiệu các phương tiện phải đi đúng làn đường quy định và tuân thủ tốc độ tối đa cho phép…",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2.”.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/426.jpg",
+        "alt": "Biển báo báo hiệu các phương tiện phải đi đúng làn đường quy định và tuân thủ tốc độ tối đa cho phép…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/426/bien-nao-bao-hieu-cac-phuong-tien-phai-di-dung-lan-duong-quy-dinh-va-tuan-thu-toc-do-toi-da-cho-phep/",
+        "question_group": "b",
+        "question_id": "426"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-353-353",
+      "order": 156,
+      "name": "Biển báo báo hiệu khoảng cách thực tế từ nơi đặt biển đến nơi cần cự ly tối thiểu giữa hai xe…",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2.”.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/353.jpg",
+        "alt": "Biển báo báo hiệu khoảng cách thực tế từ nơi đặt biển đến nơi cần cự ly tối thiểu giữa hai xe…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/353/bien-nao-bao-hieu-khoang-cach-thuc-te-tu-noi-dat-bien-den-noi-can-cu-ly-toi-thieu-giua-hai-xe/",
+        "question_group": "b",
+        "question_id": "353"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-464-464",
+      "order": 157,
+      "name": "Biển báo báo hiệu kết thúc đường cao tốc",
+      "description": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/464.jpg",
+        "alt": "Biển báo báo hiệu kết thúc đường cao tốc"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/464/bien-nao-bao-hieu-ket-thuc-duong-cao-toc/",
+        "question_group": "b",
+        "question_id": "464"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-67-390",
+      "order": 158,
+      "name": "Biển báo báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp…",
+      "description": "Biển 1: Đường 2 chiều - Biển 2: Giảm tốc độ nhường đường cho xe cơ giới đi ngược chiều - Biển 3: Được ưu tiên qua nơi đường hẹp.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/390.jpg",
+        "alt": "Biển báo báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/67/bien-nao-bao-hieu-phai-giam-toc-do-nhuong-duong-cho-xe-co-gioi-di-nguoc-chieu-qua-duong-hep/",
+        "question_group": "a1",
+        "question_id": "67"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-308-308",
+      "order": 159,
+      "name": "Biển báo cho phép xe ô tô con được vượt",
+      "description": "Chọn đáp án đúng “Biển 1 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/308.jpg",
+        "alt": "Biển báo cho phép xe ô tô con được vượt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/308/bien-nao-cho-phep-xe-o-to-con-duoc-vuot/",
+        "question_group": "b",
+        "question_id": "308"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-410-410",
+      "order": 160,
+      "name": "Biển báo dưới đây báo hiệu đoạn đường hay xảy ra ùn tắc giao thông",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/410.jpg",
+        "alt": "Biển báo dưới đây báo hiệu đoạn đường hay xảy ra ùn tắc giao thông"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/410/bien-nao-duoi-day-bao-hieu-doan-duong-hay-xay-ra-un-tac-giao-thong/",
+        "question_group": "b",
+        "question_id": "410"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-243-431",
+      "order": 161,
+      "name": "Biển báo hiệu cho người lái xe biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường phải theo…",
+      "description": "Biển báo hiệu cho người lái xe biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường phải theo.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/431.jpg",
+        "alt": "Biển báo hiệu cho người lái xe biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường phải theo…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/243/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "243"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-337-337",
+      "order": 162,
+      "name": "Biển báo hạn chế chiều cao của xe và hàng",
+      "description": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/337.jpg",
+        "alt": "Biển báo hạn chế chiều cao của xe và hàng"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/337/bien-nao-han-che-chieu-cao-cua-xe-va-hang/",
+        "question_group": "b",
+        "question_id": "337"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-309-309",
+      "order": 163,
+      "name": "Biển báo không cho phép xe ô tô con vượt",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/309.jpg",
+        "alt": "Biển báo không cho phép xe ô tô con vượt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/309/bien-nao-khong-cho-phep-xe-o-to-con-vuot/",
+        "question_group": "b",
+        "question_id": "309"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-342-342",
+      "order": 164,
+      "name": "Biển báo không có hiệu lực đối với xe ô tô tải không kéo moóc",
+      "description": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/342.jpg",
+        "alt": "Biển báo không có hiệu lực đối với xe ô tô tải không kéo moóc"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/342/bien-nao-khong-co-hieu-luc-doi-voi-xe-o-to-tai-khong-keo-mooc/",
+        "question_group": "b",
+        "question_id": "342"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-408-408",
+      "order": 165,
+      "name": "Biển báo sau đây báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa",
+      "description": "Biển 1 là biển báo Công trường, báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/408.jpg",
+        "alt": "Biển báo sau đây báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/408/bien-nao-sau-day-bao-truoc-gan-toi-doan-duong-dang-tien-hanh-thi-cong-sua-chua/",
+        "question_group": "b",
+        "question_id": "408"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-312-312",
+      "order": 166,
+      "name": "Biển báo xe ô tô con được phép vượt",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/312.jpg",
+        "alt": "Biển báo xe ô tô con được phép vượt"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/312/bien-nao-xe-o-to-con-duoc-phep-vuot/",
+        "question_group": "b",
+        "question_id": "312"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-384-384",
+      "order": 167,
+      "name": "Biển báo Đường bị thu hẹp",
+      "description": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/384.jpg",
+        "alt": "Biển báo Đường bị thu hẹp"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/384/bien-nao-bao-hieu-duong-bi-thu-hep/",
+        "question_group": "b",
+        "question_id": "384"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-428-428",
+      "order": 168,
+      "name": "Biển báo Đường dành cho xe ô tô",
+      "description": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/428.jpg",
+        "alt": "Biển báo Đường dành cho xe ô tô"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/428/bien-nao-bao-hieu-duong-danh-cho-xe-o-to/",
+        "question_group": "b",
+        "question_id": "428"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-42-389",
+      "order": 169,
+      "name": "Biển báo Đường hai chiều",
+      "description": "Biển 1: Đường 2 chiều - Biển 2: Nhường đường cho xe cơ giới ngược chiều qua đường hẹp - Biển 3: Được ưu tiên qua nơi đường hẹp.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/389.jpg",
+        "alt": "Biển báo Đường hai chiều"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/42/bien-nao-bao-hieu-duong-hai-chieu/",
+        "question_group": "a1",
+        "question_id": "42"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-396-396",
+      "order": 170,
+      "name": "Biển báo Đường hai chiều",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/396.jpg",
+        "alt": "Biển báo Đường hai chiều"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/396/bien-nao-bao-hieu-duong-hai-chieu/",
+        "question_group": "b",
+        "question_id": "396"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-447-447",
+      "order": 171,
+      "name": "Biển báo Đường phía trước có làn đường dành cho ô tô khách",
+      "description": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Biển 2.”.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/447.jpg",
+        "alt": "Biển báo Đường phía trước có làn đường dành cho ô tô khách"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/447/bien-nao-bao-hieu-duong-phia-truoc-co-lan-duong-danh-cho-o-to-khach/",
+        "question_group": "b",
+        "question_id": "447"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-406-406",
+      "order": 172,
+      "name": "Biển báo Đường trơn",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/406.jpg",
+        "alt": "Biển báo Đường trơn"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/406/bien-nao-sau-day-la-bien-duong-tron/",
+        "question_group": "b",
+        "question_id": "406"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-332-332",
+      "order": 173,
+      "name": "Chọn đáp án đúng “Biển 1 và biển 2",
+      "description": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/332.jpg",
+        "alt": "Chọn đáp án đúng “Biển 1 và biển 2"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/332/gap-bien-nao-xe-xich-lo-duoc-phep-di-vao/",
+        "question_group": "b",
+        "question_id": "332"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-315-315",
+      "order": 174,
+      "name": "Chọn đáp án đúng “Biển 2",
+      "description": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/315.jpg",
+        "alt": "Chọn đáp án đúng “Biển 2"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/315/khi-gap-bien-nao-xe-duoc-re-trai/",
+        "question_group": "b",
+        "question_id": "315"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-333-333",
+      "order": 175,
+      "name": "Chọn đáp án đúng “Biển 3",
+      "description": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/333.jpg",
+        "alt": "Chọn đáp án đúng “Biển 3"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/333/gap-bien-nao-xe-lam-xe-xich-lo-may-duoc-phep-di-vao/",
+        "question_group": "b",
+        "question_id": "333"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-446-446",
+      "order": 176,
+      "name": "Chọn đáp án đúng “Biển hạn chế tốc độ tối đa trong khu vực",
+      "description": "Chọn đáp án đúng “Biển hạn chế tốc độ tối đa trong khu vực.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/446.jpg",
+        "alt": "Chọn đáp án đúng “Biển hạn chế tốc độ tối đa trong khu vực"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/446/bien-so-3-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "446"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-338-338",
+      "order": 177,
+      "name": "Chọn đáp án đúng “Cho phép xe ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua",
+      "description": "Chọn đáp án đúng “Cho phép xe ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.…",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/338.jpg",
+        "alt": "Chọn đáp án đúng “Cho phép xe ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/338/bien-so-2-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "338"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-359-359",
+      "order": 178,
+      "name": "Chọn đáp án đúng “Hạn chế chiều ngang của xe và hàng",
+      "description": "Chọn đáp án đúng “Hạn chế chiều ngang của xe và hàng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/359.jpg",
+        "alt": "Chọn đáp án đúng “Hạn chế chiều ngang của xe và hàng"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/359/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "359"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-344-344",
+      "order": 179,
+      "name": "Chọn đáp án đúng “Không được phép",
+      "description": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/344.jpg",
+        "alt": "Chọn đáp án đúng “Không được phép"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/344/khi-gap-bien-nay-xe-mo-to-ba-banh-cho-hang-co-duoc-phep-re-trai-hoac-re-phai-hay-khong/",
+        "question_group": "b",
+        "question_id": "344"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-356-356",
+      "order": 180,
+      "name": "Chọn đáp án đúng “Không được phép",
+      "description": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/356.jpg",
+        "alt": "Chọn đáp án đúng “Không được phép"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/356/gap-bien-nay-xe-o-to-so-mi-ro-mooc-co-chieu-dai-toan-bo-ke-ca-xe-mooc-va-hang-lon-hon-tri-so-ghi-tren-bien-co-duoc-phep-di-vao-hay-khong/",
+        "question_group": "b",
+        "question_id": "356"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-357-357",
+      "order": 181,
+      "name": "Chọn đáp án đúng “Không được phép",
+      "description": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/357.jpg",
+        "alt": "Chọn đáp án đúng “Không được phép"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/357/xe-o-to-cho-hang-vuot-qua-phia-truoc-va-sau-thung-xe-moi-phia-qua-10-chieu-dai-toan-bo-than-xe-tong-chieu-dai-xe-ca-hang-tu-truoc-den-sau-nho-hon-tri-so-ghi-tren-bien-thi-co-duoc-phep-di-vao-khong/",
+        "question_group": "b",
+        "question_id": "357"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-467-467",
+      "order": 182,
+      "name": "Chọn đáp án đúng “Ý 1 và ý 3",
+      "description": "Chọn đáp án đúng “Ý 1 và ý 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/467.jpg",
+        "alt": "Chọn đáp án đúng “Ý 1 và ý 3"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/467/bien-nay-co-y-nghia-nhu-the-nao/",
+        "question_group": "b",
+        "question_id": "467"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-341-341",
+      "order": 183,
+      "name": "Chọn đáp án đúng “Được đi vào",
+      "description": "Chọn đáp án đúng “Được đi vào.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/341.jpg",
+        "alt": "Chọn đáp án đúng “Được đi vào"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/341/khi-gap-bien-so-1-xe-o-to-tai-co-duoc-di-vao-khong/",
+        "question_group": "b",
+        "question_id": "341"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-b-385-385",
+      "order": 184,
+      "name": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng c…",
+      "description": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2 và biển 3.”.",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/385.jpg",
+        "alt": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng c…"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/b/385/khi-gap-bien-nao-nguoi-lai-xe-phai-giam-toc-do-chu-y-xe-di-nguoc-chieu-xe-di-o-phia-duong-bi-hep-phai-nhuong-duong-cho-xe-di-nguoc-chieu/",
+        "question_group": "b",
+        "question_id": "385"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    },
+    {
+      "id": "sign-a1-90-364",
+      "order": 185,
+      "name": "Số 50 ghi trên biển báo dưới đây có ý nghĩa như thế nào?",
+      "description": "Biển tròn viền đỏ là biển báo cấm, kèm chú thích con số bên trong. Đây là con số không được vượt quá (tối đa).",
+      "category": {
+        "code": "other",
+        "name": "BIỂN BÁO KHÁC"
+      },
+      "image": {
+        "url": "https://hoclaixehcm.vn/images/a1/364.jpg",
+        "alt": "Số 50 ghi trên biển báo dưới đây có ý nghĩa như thế nào?"
+      },
+      "answer": "",
+      "related_question": {
+        "url": "https://hoclaixehcm.vn/cau-hoi/a1/90/so-50-ghi-tren-bien-bao-duoi-day-co-y-nghia-nhu-the-nao/",
+        "question_group": "a1",
+        "question_id": "90"
+      },
+      "source": "https://hoclaixehcm.vn/bien-bao-giao-thong/"
+    }
+  ]
+}
