@@ -1,6 +1,7 @@
 package com.example.ui.screens
 
 import androidx.activity.compose.BackHandler
+import androidx.activity.compose.LocalActivity
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -25,6 +26,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import com.example.model.Exam
+import com.example.ads.ExamInterstitialAds
 import com.example.model.ExamAttempt
 import com.example.ui.AppScreen
 import com.example.ui.MainViewModel
@@ -41,6 +43,11 @@ fun ExamResultScreen(
 ) {
     var zoomImageUrl by remember { mutableStateOf<String?>(null) }
     var selectedFilter by remember { mutableStateOf("Tất cả") } // "Tất cả", "Câu sai", "Câu điểm liệt"
+    val activity = LocalActivity.current
+
+    LaunchedEffect(activity) {
+        activity?.let(ExamInterstitialAds::preload)
+    }
 
     BackHandler {
         viewModel.navigateTo(AppScreen.ExamList, clearStack = true)
@@ -174,7 +181,14 @@ fun ExamResultScreen(
                     horizontalArrangement = Arrangement.spacedBy(10.dp)
                 ) {
                     Button(
-                        onClick = { viewModel.startExam(exam) },
+                        onClick = {
+                            val restartExam = { viewModel.startExam(exam) }
+                            if (activity != null) {
+                                ExamInterstitialAds.showIfEligible(activity, restartExam)
+                            } else {
+                                restartExam()
+                            }
+                        },
                         colors = ButtonDefaults.buttonColors(containerColor = NavyPrimary),
                         shape = RoundedCornerShape(12.dp),
                         modifier = Modifier
@@ -188,7 +202,16 @@ fun ExamResultScreen(
                     }
 
                     OutlinedButton(
-                        onClick = { viewModel.navigateTo(AppScreen.ExamList, clearStack = true) },
+                        onClick = {
+                            val openExamList = {
+                                viewModel.navigateTo(AppScreen.ExamList, clearStack = true)
+                            }
+                            if (activity != null) {
+                                ExamInterstitialAds.showIfEligible(activity, openExamList)
+                            } else {
+                                openExamList()
+                            }
+                        },
                         shape = RoundedCornerShape(12.dp),
                         modifier = Modifier
                             .weight(1f)

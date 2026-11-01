@@ -71,7 +71,8 @@ fun StatsScreen(
 
         LazyColumn(
             modifier = Modifier
-                .fillMaxSize()
+                .weight(1f)
+                .fillMaxWidth()
                 .padding(horizontal = 16.dp),
             contentPadding = PaddingValues(top = 16.dp, bottom = 32.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp)
@@ -332,6 +333,7 @@ fun StatsScreen(
                 }
             }
         }
+        StandardBannerAd()
     }
 
     if (showResetConfirm) {

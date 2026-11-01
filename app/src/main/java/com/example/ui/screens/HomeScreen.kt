@@ -1,5 +1,12 @@
 package com.example.ui.screens
 
+import android.view.ViewGroup
+import androidx.compose.ui.viewinterop.AndroidView
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.remember
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdSize
+import com.google.android.gms.ads.AdView
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -56,7 +63,7 @@ fun HomeScreen(
 
         LazyColumn(
             modifier = Modifier
-                .fillMaxSize()
+                .weight(1f)
                 .padding(horizontal = 16.dp),
             contentPadding = PaddingValues(top = 16.dp, bottom = 24.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp)
@@ -314,7 +321,7 @@ fun HomeScreen(
                         )
                     }
 
-                    // Row 4: Lịch sử thi thử & Sa hình & Kỹ thuật
+                    // Row 4: Lịch sử thi thử & Những câu người mới thường sai
                     Row(
                         modifier = Modifier.fillMaxWidth(),
                         horizontalArrangement = Arrangement.spacedBy(12.dp)
@@ -331,73 +338,56 @@ fun HomeScreen(
                         )
 
                         ActionCard(
-                            icon = Icons.Default.DirectionsCar,
-                            iconBg = Color(0xFFF1F5F9),
-                            iconTint = NavyPrimary,
-                            title = "Sa hình & Kỹ thuật",
-                            subtitle = "Quy tắc nhường đường",
-                            testTag = "action_sa_hinh",
-                            onClick = { viewModel.navigateTo(AppScreen.Study(StudyFilterMode.CATEGORY, categoryName = "Sa hình")) },
+                            icon = Icons.Default.Psychology,
+                            iconBg = Color(0xFFFEF2F2),
+                            iconTint = RedAlert,
+                            title = "Người mới hay sai",
+                            subtitle = "35 câu hỏi bẫy",
+                            testTag = "action_tricky_questions",
+                            onClick = { viewModel.navigateTo(AppScreen.Study(StudyFilterMode.TRICKY_ONLY)) },
                             modifier = Modifier.weight(1f)
                         )
                     }
 
-                    // Row 5: Những câu người mới thường sai
-                    Card(
-                        shape = RoundedCornerShape(18.dp),
-                        colors = CardDefaults.cardColors(containerColor = Color.White),
-                        border = androidx.compose.foundation.BorderStroke(1.dp, BorderSubtle),
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .clip(RoundedCornerShape(18.dp))
-                            .clickable { viewModel.navigateTo(AppScreen.Study(StudyFilterMode.TRICKY_ONLY)) }
-                            .testTag("action_tricky_questions")
-                    ) {
-                        Row(
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(16.dp),
-                            verticalAlignment = Alignment.CenterVertically
-                        ) {
-                            Box(
-                                modifier = Modifier
-                                    .size(44.dp)
-                                    .clip(CircleShape)
-                                    .background(Color(0xFFFEF2F2)),
-                                contentAlignment = Alignment.Center
-                            ) {
-                                Icon(
-                                    imageVector = Icons.Default.Psychology,
-                                    contentDescription = null,
-                                    tint = RedAlert,
-                                    modifier = Modifier.size(24.dp)
-                                )
-                            }
-                            Spacer(modifier = Modifier.width(14.dp))
-                            Column(modifier = Modifier.weight(1f)) {
-                                Text(
-                                    text = "Những câu người mới thường sai",
-                                    fontSize = 15.sp,
-                                    fontWeight = FontWeight.Bold,
-                                    color = NavyPrimary
-                                )
-                                Text(
-                                    text = "35 câu hỏi 'bẫy' nhiều học viên mất điểm nhất",
-                                    fontSize = 12.sp,
-                                    color = TextSecondary
-                                )
-                            }
-                            Icon(
-                                imageVector = Icons.AutoMirrored.Filled.ArrowForward,
-                                contentDescription = null,
-                                tint = TextSecondary,
-                                modifier = Modifier.size(20.dp)
-                            )
-                        }
-                    }
+
                 }
             }
         }
+        StandardBannerAd()
+    }
+}
+
+@Composable
+fun StandardBannerAd() {
+    val context = androidx.compose.ui.platform.LocalContext.current
+    val adView = remember {
+        AdView(context).apply {
+            setAdSize(AdSize(320, 50))
+            adUnitId = "ca-app-pub-3940256099942544/6300978111" // Google test banner; replace before release.
+            layoutParams = ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT)
+            loadAd(AdRequest.Builder().build())
+        }
+    }
+
+    DisposableEffect(adView) {
+        onDispose { adView.destroy() }
+    }
+
+    Box(
+        modifier = Modifier
+            .fillMaxWidth()
+            .height(50.dp)
+            .background(Color.White),
+        contentAlignment = Alignment.Center
+    ) {
+        AndroidView(
+            factory = { adView },
+            modifier = Modifier
+                .width(320.dp)
+                .height(50.dp)
+                .testTag("home_banner_ad"),
+            update = {}
+        )
     }
 }
 
@@ -483,7 +473,7 @@ private fun ActionCard(
                 fontSize = 15.sp,
                 fontWeight = FontWeight.Bold,
                 color = NavyPrimary,
-                maxLines = 1
+                maxLines = 2
             )
             Spacer(modifier = Modifier.height(2.dp))
             Text(

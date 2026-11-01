@@ -212,7 +212,7 @@ fun StudyScreen(
                     .padding(4.dp)
             ) {
                 Text(
-                    text = "Hiện mẹo ngay",
+                    text = "Giải thích",
                     fontSize = 12.sp,
                     fontWeight = FontWeight.Medium,
                     color = if (showExplanationInstantly) NavyPrimary else TextSecondary
@@ -229,7 +229,8 @@ fun StudyScreen(
         if (filteredQuestions.isEmpty()) {
             Box(
                 modifier = Modifier
-                    .fillMaxSize()
+                    .weight(1f)
+                    .fillMaxWidth()
                     .padding(32.dp),
                 contentAlignment = Alignment.Center
             ) {
@@ -582,6 +583,14 @@ fun StudyScreen(
                     }
                 }
             }
+        }
+
+        val showBanner = selectedMode == StudyFilterMode.ALL &&
+            currentQuestion != null &&
+            userProgress.answeredMap[currentQuestion.id] == null &&
+            !showExplanationInstantly
+        if (showBanner) {
+            StandardBannerAd()
         }
     }
 
