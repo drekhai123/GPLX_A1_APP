@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Chính sách quyền riêng tư của ứng dụng Ôn Thi GPLX A1, do Dam Tien Dat phát triển. Thông tin về dữ liệu, quảng cáo, lưu trữ và xóa dữ liệu.">
+  <meta name="theme-color" content="#0f172a">
+  <title>Chính sách quyền riêng tư | Ôn Thi GPLX A1</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #ffffff;
+      --background: #f8fafc;
+      --ink: #0f172a;
+      --body: #334155;
+      --muted: #475569;
+      --line: #e2e8f0;
+      --accent: #1d4ed8;
+      --soft: #eff6ff;
+      --space-1: .25rem;
+      --space-2: .5rem;
+      --space-3: .75rem;
+      --space-4: 1rem;
+      --space-5: 1.5rem;
+      --space-6: 2rem;
+      --space-7: 3rem;
+      --space-8: 4rem;
+      --text-small: .875rem;
+      --text-body: 1rem;
+      --text-heading: 1.375rem;
+      --text-title: clamp(2rem, 4vw, 3.25rem);
+      --weight-medium: 600;
+      --weight-bold: 700;
+      --leading: 1.8;
+      --leading-tight: 1.15;
+      --radius: .5rem;
+      --border: 1px;
+      --focus-width: 3px;
+      --tap-height: 2.75rem;
+      --container: 70rem;
+      --sidebar: 16rem;
+      --measure: 72ch;
+      --sticky-top: 2rem;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-padding-top: var(--space-6); }
+    body { margin: 0; background: var(--background); color: var(--body); font-size: var(--text-body); line-height: var(--leading); }
+    a { color: var(--accent); text-underline-offset: var(--space-1); overflow-wrap: anywhere; }
+    a:hover { text-decoration-thickness: var(--border); color: var(--ink); }
+    a:active { background: var(--soft); }
+    a:focus-visible { outline: var(--focus-width) solid var(--accent); outline-offset: var(--space-1); border-radius: var(--space-1); }
+    .container { width: min(var(--container), calc(100% - var(--space-7))); margin-inline: auto; }
+    .skip { position: absolute; top: var(--space-4); left: var(--space-4); transform: translateY(-200%); padding: var(--space-3) var(--space-4); background: var(--paper); z-index: 1; }
+    .skip:focus { transform: translateY(0); }
+    .masthead { padding-block: var(--space-5); border-bottom: var(--border) solid var(--line); background: var(--paper); }
+    .brand { display: flex; gap: var(--space-3); align-items: center; color: var(--ink); }
+    .brand-mark { display: grid; place-items: center; width: var(--space-7); height: var(--space-7); flex-shrink: 0; background: var(--ink); color: var(--paper); border-radius: var(--radius); font-weight: var(--weight-bold); }
+    .brand-name { display: block; font-weight: var(--weight-bold); }
+    .brand-caption { display: block; color: var(--muted); font-size: var(--text-small); }
+    .intro { padding-block: var(--space-8) var(--space-7); }
+    .eyebrow { margin: 0 0 var(--space-4); font-size: var(--text-small); color: var(--muted); font-weight: var(--weight-medium); }
+    h1, h2 { color: var(--ink); }
+    h1 { margin: 0; max-width: 20ch; font-size: var(--text-title); line-height: var(--leading-tight); letter-spacing: -.025em; text-wrap: balance; }
+    .intro-text { max-width: 64ch; margin: var(--space-5) 0; }
+    .metadata { display: flex; flex-wrap: wrap; gap: var(--space-2) var(--space-6); color: var(--muted); font-size: var(--text-small); }
+    .layout { display: grid; grid-template-columns: var(--sidebar) minmax(0, 1fr); gap: var(--space-8); align-items: start; padding-bottom: var(--space-8); }
+    .sidebar { position: sticky; top: var(--sticky-top); }
+    .nav-label { margin: 0 0 var(--space-3); color: var(--ink); font-weight: var(--weight-medium); }
+    .toc { margin: 0; padding: 0; list-style: none; }
+    .toc a { display: flex; align-items: center; min-height: var(--tap-height); padding: var(--space-2) var(--space-3); border-radius: var(--radius); text-decoration: none; font-size: var(--text-small); color: var(--muted); }
+    .toc a:hover, .toc a:focus-visible { background: var(--soft); color: var(--accent); }
+    .policy { min-width: 0; background: var(--paper); border: var(--border) solid var(--line); border-radius: var(--radius); padding: var(--space-7); }
+    section { max-width: var(--measure); scroll-margin-top: var(--space-6); }
+    section + section { margin-top: var(--space-6); padding-top: var(--space-6); border-top: var(--border) solid var(--line); }
+    h2 { margin: 0 0 var(--space-4); font-size: var(--text-heading); line-height: 1.45; }
+    p { margin: 0 0 var(--space-4); }
+    p:last-child { margin-bottom: 0; }
+    ul { margin-block: var(--space-4); padding-left: var(--space-5); }
+    li + li { margin-top: var(--space-2); }
+    .toc li + li { margin-top: 0; }
+    .reference { display: block; width: fit-content; min-height: var(--tap-height); padding-block: var(--space-2); }
+    .contact { padding: var(--space-5); background: var(--soft); border-radius: var(--radius); margin-top: var(--space-5); }
+    address { font-style: normal; }
+    .contact-name { font-weight: var(--weight-bold); color: var(--ink); }
+    .contact-email { display: block; width: fit-content; min-height: var(--tap-height); padding-block: var(--space-2); }
+    footer { background: var(--paper); border-top: var(--border) solid var(--line); padding-block: var(--space-5); color: var(--muted); font-size: var(--text-small); }
+    .footer-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--space-4); }
+    .back-top { display: inline-flex; align-items: center; min-height: var(--tap-height); }
+    @media (max-width: 900px) {
+      .layout { grid-template-columns: minmax(0, 1fr); gap: var(--space-6); }
+      .sidebar { position: static; }
+      .toc { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 var(--space-4); }
+      .policy { padding: var(--space-6); }
+    }
+    @media (max-width: 540px) {
+      .container { width: calc(100% - var(--space-6)); }
+      .intro { padding-block: var(--space-7) var(--space-6); }
+      .metadata { display: grid; gap: var(--space-2); }
+      .toc { grid-template-columns: minmax(0, 1fr); }
+      .policy { padding: var(--space-5); }
+      .contact { padding: var(--space-4); }
+    }
+    @media print {
+      body, footer { background: var(--paper); }
+      .container { width: 100%; }
+      .skip, .sidebar, .back-top { display: none; }
+      .layout { display: block; padding: 0; }
+      .intro { padding-block: var(--space-5); }
+      .policy { padding: 0; border: 0; }
+      h2 { break-after: avoid; }
+      .contact { break-inside: avoid; }
+      a { color: var(--ink); }
+    }
+  </style>
+</head>
+<body id="dau-trang">
+  <a class="skip" href="#noi-dung">Chuyển đến nội dung chính</a>
+  <header class="masthead">
+    <div class="container brand">
+      <span class="brand-mark" aria-hidden="true">A1</span>
+      <div>
+        <span class="brand-name">Ôn Thi GPLX A1</span>
+        <span class="brand-caption">Nhà phát triển · Dam Tien Dat</span>
+      </div>
+    </div>
+  </header>
+  <div class="container intro">
+    <p class="eyebrow">Ôn Thi GPLX A1 · Privacy Policy</p>
+    <h1>Chính sách<br>quyền riêng tư</h1>
+    <p class="intro-text">Thông tin về dữ liệu ứng dụng lưu trữ, các dịch vụ được sử dụng và cách bạn kiểm soát dữ liệu của mình.</p>
+    <div class="metadata">
+      <span>Cập nhật ngày <time datetime="2026-11-02">02/11/2026</time></span>
+      <span>Nhà phát triển: <strong>Dam Tien Dat</strong></span>
+    </div>
+  </div>
+  <div class="container layout">
+    <aside class="sidebar">
+      <nav aria-label="Mục lục chính sách quyền riêng tư">
+        <p class="nav-label">Nội dung chính sách</p>
+        <ol class="toc">
+          <li><a href="#gioi-thieu">01 · Giới thiệu</a></li>
+          <li><a href="#du-lieu">02 · Dữ liệu trên thiết bị</a></li>
+          <li><a href="#quang-cao">03 · Quảng cáo &amp; Google</a></li>
+          <li><a href="#hinh-anh">04 · Hình ảnh từ Internet</a></li>
+          <li><a href="#luu-tru">05 · Lưu giữ &amp; sao lưu</a></li>
+          <li><a href="#xoa-du-lieu">06 · Xóa &amp; kiểm soát dữ liệu</a></li>
+          <li><a href="#bao-ve">07 · Bảo vệ dữ liệu</a></li>
+          <li><a href="#lien-he">08 · Thay đổi &amp; liên hệ</a></li>
+        </ol>
+      </nav>
+    </aside>
+    <main class="policy" id="noi-dung" tabindex="-1">
+      <section id="gioi-thieu" aria-labelledby="tieu-de-1">
+        <h2 id="tieu-de-1">1. Giới thiệu</h2>
+        <p>Ôn Thi GPLX A1, do Dam Tien Dat phát triển, hỗ trợ học lý thuyết, xem biển báo và thi thử giấy phép lái xe hạng A1. Chính sách này mô tả cách ứng dụng lưu trữ, sử dụng và xử lý dữ liệu.</p>
+        <p>Các chức năng học tập hiện tại không yêu cầu đăng ký tài khoản hoặc cung cấp họ tên, số điện thoại hay giấy tờ tùy thân.</p>
+      </section>
+      <section id="du-lieu" aria-labelledby="tieu-de-2">
+        <h2 id="tieu-de-2">2. Dữ liệu lưu trên thiết bị</h2>
+        <p>Ứng dụng lưu các dữ liệu sau để hỗ trợ ôn tập:</p>
+        <ul>
+          <li>Câu trả lời và tiến độ học.</li>
+          <li>Danh sách câu làm sai, câu đã đánh dấu và vị trí học gần nhất.</li>
+          <li>Kết quả, thời gian và lịch sử thi thử; lưu tối đa 50 lượt thi gần nhất.</li>
+          <li>Thời điểm và số lần hiển thị quảng cáo để giới hạn tần suất quảng cáo.</li>
+        </ul>
+        <p>Dữ liệu học tập được lưu trong vùng dữ liệu riêng của ứng dụng trên thiết bị, phục vụ việc tiếp tục bài học và thống kê kết quả.</p>
+      </section>
+      <section id="quang-cao" aria-labelledby="tieu-de-3">
+        <h2 id="tieu-de-3">3. Quảng cáo và dịch vụ Google</h2>
+        <p>Ứng dụng tích hợp Google AdMob. Google Mobile Ads SDK có thể thu thập và chia sẻ địa chỉ IP, thông tin tương tác với ứng dụng và quảng cáo, dữ liệu chẩn đoán cùng các mã định danh thiết bị hoặc quảng cáo. Địa chỉ IP có thể được dùng để ước lượng vị trí gần đúng.</p>
+        <p>Dữ liệu này được xử lý để cung cấp quảng cáo, đo lường, phân tích và phòng chống gian lận, tùy cấu hình dịch vụ và các lựa chọn quyền riêng tư áp dụng.</p>
+        <p>Bạn có thể quản lý mã nhận dạng quảng cáo trong cài đặt Android, tùy phiên bản thiết bị.</p>
+        <a class="reference" href="https://developers.google.com/admob/android/privacy/play-data-disclosure">Thông tin xử lý dữ liệu của Google Mobile Ads SDK</a>
+        <a class="reference" href="https://policies.google.com/privacy?hl=vi">Chính sách quyền riêng tư của Google</a>
+      </section>
+      <section id="hinh-anh" aria-labelledby="tieu-de-4">
+        <h2 id="tieu-de-4">4. Tải hình ảnh từ Internet</h2>
+        <p>Một số hình ảnh câu hỏi và biển báo được tải từ máy chủ hoclaixehcm.vn. Khi tải hình ảnh, thiết bị gửi yêu cầu tới máy chủ này. Bên vận hành máy chủ có thể nhận địa chỉ IP và thông tin kỹ thuật của yêu cầu để cung cấp nội dung.</p>
+      </section>
+      <section id="luu-tru" aria-labelledby="tieu-de-5">
+        <h2 id="tieu-de-5">5. Lưu giữ và sao lưu</h2>
+        <p>Dữ liệu học tập được giữ trên thiết bị cho đến khi người dùng xóa, đặt lại hoặc dữ liệu được thay thế theo giới hạn lưu trữ của ứng dụng.</p>
+        <p>Ứng dụng đang cho phép sao lưu Android. Tùy thiết bị và cài đặt của người dùng, dữ liệu có thể được hệ thống sao lưu, chuyển sang thiết bị khác hoặc khôi phục khi cài đặt lại.</p>
+        <p>Dữ liệu do các nhà cung cấp dịch vụ xử lý được lưu giữ theo chính sách của từng bên.</p>
+        <a class="reference" href="https://developer.android.com/identity/data/autobackup">Thông tin về sao lưu của Android</a>
+      </section>
+      <section id="xoa-du-lieu" aria-labelledby="tieu-de-6">
+        <h2 id="tieu-de-6">6. Xóa và kiểm soát dữ liệu</h2>
+        <p>Bạn có thể:</p>
+        <ul>
+          <li>Chọn <strong>“Xóa lịch sử”</strong> trong màn hình lịch sử thi thử để xóa kết quả thi đã lưu.</li>
+          <li>Chọn <strong>“Đặt lại toàn bộ tiến độ”</strong> trong màn hình thống kê để xóa tiến độ học, câu làm sai, câu đã lưu và lịch sử thi.</li>
+          <li>Xóa dữ liệu ứng dụng trong cài đặt Android để xóa dữ liệu cục bộ.</li>
+        </ul>
+        <p>Các thao tác này không trực tiếp xóa bản sao lưu hệ thống hoặc dữ liệu đã được bên thứ ba xử lý. Bạn cần sử dụng cài đặt và cơ chế quản lý dữ liệu của nhà cung cấp tương ứng.</p>
+      </section>
+      <section id="bao-ve" aria-labelledby="tieu-de-7">
+        <h2 id="tieu-de-7">7. Bảo vệ dữ liệu</h2>
+        <p>Dữ liệu cục bộ được bảo vệ bằng cơ chế phân quyền ứng dụng của Android. Theo tài liệu Google, dữ liệu người dùng do Google Mobile Ads SDK thu thập được mã hóa khi truyền bằng TLS. Không phương thức lưu trữ hoặc truyền dữ liệu nào bảo đảm an toàn tuyệt đối.</p>
+      </section>
+      <section id="lien-he" aria-labelledby="tieu-de-8">
+        <h2 id="tieu-de-8">8. Thay đổi chính sách và liên hệ</h2>
+        <p>Chính sách có thể được cập nhật khi chức năng hoặc cách xử lý dữ liệu thay đổi. Ngày cập nhật sẽ được ghi trên trang này.</p>
+        <p>Nếu có câu hỏi hoặc yêu cầu liên quan đến quyền riêng tư, vui lòng liên hệ:</p>
+        <address class="contact">
+          <div class="contact-name">Dam Tien Dat</div>
+          <a class="contact-email" href="mailto:damtiendat24072000@gmail.com">damtiendat24072000@gmail.com</a>
+        </address>
+      </section>
+    </main>
+  </div>
+  <footer>
+    <div class="container footer-inner">
+      <span>Ôn Thi GPLX A1 · Dam Tien Dat</span>
+      <a class="back-top" href="#dau-trang">Về đầu trang ↑</a>
+    </div>
+  </footer>
+</body>
+</html>

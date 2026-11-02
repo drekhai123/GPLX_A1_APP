@@ -20,3 +20,10 @@ View your app in AI Studio: https://ai.studio/apps/6fbe85fa-6a92-4787-b4f4-45b81
 5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
 6. Run the app on an emulator or physical device
 7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+
+## Privacy policy website
+
+The standalone [privacy policy page](privacy-policy/index.html) can be hosted on
+Netlify or GitHub Pages without a build step. See the
+[deployment instructions](privacy-policy/README.md) for publishing and updating
+the public URL used in Google Play Console.
